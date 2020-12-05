@@ -3,10 +3,6 @@ title: "Photography"
 layout: single
 excerpt: "Photography"
 permalink: /photography.html
----
-
-Some photos I have taken randomly while I travel
-
 gallery:
   - url: /assets/images/home.jpg
     image_path: /assets/images/home.jpg
@@ -16,3 +12,8 @@ gallery:
     image_path: /assets/images/avatar.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
+---
+
+Some photos I took randomly while I travel
+
+{% include gallery caption="This is a sample gallery" %}
