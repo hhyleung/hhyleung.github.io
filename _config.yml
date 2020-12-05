@@ -114,12 +114,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hhyleung"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/excursionist.scrapbook"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hannahhyleung"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/excursionist.scrapbook"
 
 # Site Footer
 footer:
@@ -132,16 +132,19 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/hhyleung"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/hannahhyleung"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/excursionist.scrapbook"
 
 
 # Reading Files
@@ -276,7 +279,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: # true
@@ -287,5 +290,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: splash
       author_profile: true
