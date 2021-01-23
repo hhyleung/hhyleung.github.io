@@ -1,5 +1,8 @@
 ---
 title: "Cheatsheets"
-layout: posts
-permalink: /cheatsheets.html
+layout: collection
+permalink: /cheatsheets/
+collection: cheatsheets
+entries_layout: grid
+classes: wide
 ---
