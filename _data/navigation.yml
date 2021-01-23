@@ -2,9 +2,11 @@
 main:
   - title: "About"
     url: /about
-  - title: "Demo Sites"
+  - title: "Demo"
     url: https://hhyleung.github.io/demo
   - title: "Blog"
     url: /blog
+  - title: "Cheatsheets"
+    url: /cheatsheets
   - title: "Photography"
     url: /photography
