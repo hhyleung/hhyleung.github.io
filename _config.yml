@@ -273,6 +273,9 @@ compress_html:
 
 # Collections
 collections:
+  blog:
+    output: true
+    permalink: /:collection/:path/
   cheatsheets:
     output: true
     permalink: /:collection/:path/
@@ -298,6 +301,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # blog
+  - scope:
+      path: ""
+      type: blog
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      show_date: true
   # _cheatsheets
   - scope:
       path: ""
@@ -305,5 +317,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      show_date: true

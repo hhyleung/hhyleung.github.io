@@ -1,23 +1,26 @@
 ---
 title: "Splunk Fundamentals 1"
-date: 2021-01-23
 excerpt: "Splunk Fundamentals 1 Course Cheatsheet"
+last_modified_at: 2021-01-23
+tags:
+  - Splunk
 ---
-# Key points
+
+## Key points
 - boolean order: `NOT` -> `OR` -> `AND`
-- deployed with search and home app
+- default deployed with search and home app
 - `top` and `rare` return 10 results
 - field names are case sensitive, field values are not
 - `@` round down to nearest time unit
 - jobs are available for 10 mins by default, should schedule report for longer lifetime
 - interesting fields: in at least 20% of resulting events
-- `!=` must have value, `NOT` includes those without value (null or field does not exist at all)
+- `!=` field must have value, `NOT` includes those without value (null or field does not exist at all)
 - `dedup` remove duplicates
+- zooming in and out the timeline re-executes the search, click and drag does not
 - Splunk Cloud is Splunk Enterprise as a scalable service
-- Premium enhanced solutions: user behaviour analytics, IT service intelligence, enterprise security
-- Zooming in and out re-executes the search, click and dragging does not
+- premium enhanced solutions: user behaviour analytics, IT service intelligence, enterprise security
 
-# Components
+## Splunk components
 - Indexer: process and index data, includes license meter
 - Search head: search indexed data
 - Forwarder: send data
@@ -28,13 +31,13 @@ excerpt: "Splunk Fundamentals 1 Course Cheatsheet"
     - Index cluster: traditional vs non-replicating
 - License master
 
-# Color coding
-- <span style="color:orange">Orange</span>: boolean `OR` and command modifier `by`
-- <span style="color:blue">Blue</span>: command `stats`
-- <span style="color:green">Green</span>: command argument `span`
-- <span style="color:purple">Purple</span>: function `sum`
+## Syntax colouring
+- <span style="color:#F78B21">Orange</span>: booleans `OR` and command modifiers `by`
+- <span style="color:#1F5CFF">Blue</span>: commands `stats`
+- <span style="color:#5CA301">Green</span>: command arguments `span`
+- <span style="color:#D100D3">Purple</span>: functions `sum`
 
-# `top` and `rare`
+## `top` and `rare` commands
 - `limit`: number of results
     - default: `10`
     - `=0`: returns unlimited results
@@ -48,8 +51,7 @@ excerpt: "Splunk Fundamentals 1 Course Cheatsheet"
     - user `by` game: top users for each game
     - game `by` user: top games for each user
 
-
-# `stats`
+## `stats` command
 - `count`: number of events
     - `as`: rename column
     - `(field)`: field with value
@@ -59,3 +61,7 @@ excerpt: "Splunk Fundamentals 1 Course Cheatsheet"
 - `avg(field)`: average of numeric values
 - `list(field)`: all values of field
 - `values(field)`: unique values of field
+
+## Study resources
+https://education.splunk.com/course/splunk-7x-fundamentals-part-1-elearning
+https://www.examtopics.com/exams/splunk/splk-1001/

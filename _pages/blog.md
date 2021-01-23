@@ -1,5 +1,8 @@
 ---
 title: "Blog"
-layout: posts
-permalink: /blog.html
+layout: collection
+permalink: /blog/
+collection: blog
+entries_layout: grid
+classes: wide
 ---

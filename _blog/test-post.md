@@ -1,9 +1,11 @@
 ---
 title: "Test Post"
+excerpt: "Just a test post"
 date: 2020-12-05
 header:
   image: "/assets/images/SLAE.png"
-excerpt: "Just a test post"
+tags:
+  - SLAE
 ---
 
 ## TESTING
