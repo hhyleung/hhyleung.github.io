@@ -273,7 +273,7 @@ compress_html:
 
 # Collections
 collections:
-  portfolio:
+  cheatsheets:
     output: true
     permalink: /:collection/:path/
 
