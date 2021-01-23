@@ -63,5 +63,5 @@ tags:
 - `values(field)`: unique values of field
 
 ## Study resources
-https://education.splunk.com/course/splunk-7x-fundamentals-part-1-elearning
-https://www.examtopics.com/exams/splunk/splk-1001/
+- <https://education.splunk.com/course/splunk-7x-fundamentals-part-1-elearning>
+- <https://www.examtopics.com/exams/splunk/splk-1001/>
