@@ -1,6 +1,6 @@
 ---
 title: "Splunk Fundamentals 1"
-excerpt: "Splunk Fundamentals 1 Course Cheatsheet"
+excerpt: "For Splunk Core Certified User"
 last_modified_at: 2021-01-23
 tags:
   - Splunk

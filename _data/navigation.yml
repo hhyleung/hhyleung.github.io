@@ -5,8 +5,10 @@ main:
   - title: "Demo"
     url: https://hhyleung.github.io/demo
   - title: "Blog"
-    url: /blog
+    url: /blog/
   - title: "Cheatsheets"
-    url: /cheatsheets
+    url: /cheatsheets/
   - title: "Photography"
     url: /photography
+  - title: "Tags"
+    url: /tags/
