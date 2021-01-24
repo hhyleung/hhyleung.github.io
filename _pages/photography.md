@@ -30,6 +30,6 @@ gallery:
     title: "Hunstanton Cliffs, Norfolk, UK"
 ---
 
-Landscape • Wildlife • Travel
+Landscape | Wildlife | Travel
 
 {% include gallery class="full" layout="half" %}
