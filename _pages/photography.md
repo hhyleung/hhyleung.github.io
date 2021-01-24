@@ -8,8 +8,8 @@ gallery:
     image_path: /assets/images/edinburghSunrise.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/avatar.jpg
-    image_path: /assets/images/avatar.jpg
+  - url: /assets/images/doverCliff.jpg
+    image_path: /assets/images/doverCliff.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
 ---
