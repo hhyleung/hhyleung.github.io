@@ -12,10 +12,10 @@ gallery:
     image_path: /assets/images/avatar.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/avatar.jpg
-    image_path: /assets/images/avatar.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+  - url: /assets/images/glencoeDeer.jpg
+    image_path: /assets/images/glencoeDeer.jpg
+    alt: "Glencoe, Scotland"
+    title: "Glencoe, Scotland"
   - url: /assets/images/avatar.jpg
     image_path: /assets/images/avatar.jpg
     alt: "placeholder image 4"
@@ -29,7 +29,5 @@ gallery:
     alt: "placeholder image 6"
     title: "Image 6 title caption"
 ---
-
-replaced
 
 {% include gallery class="full" layout="half" %}
