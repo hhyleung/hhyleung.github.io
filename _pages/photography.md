@@ -20,10 +20,10 @@ gallery:
     image_path: /assets/images/callanderCoo.jpg
     alt: "Callander, Scotland"
     title: "Callander, Scotland"
-  - url: /assets/images/avatar.jpg
-    image_path: /assets/images/avatar.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"
+  - url: /assets/images/zennorCoast.jpg
+    image_path: /assets/images/zennorCoast.jpg
+    alt: "Zennor, Cornwall, UK"
+    title: "Zennor, Cornwall, UK"
   - url: /assets/images/hunstantonCliff.jpg
     image_path: /assets/images/hunstantonCliff.jpg
     alt: "Hunstanton Cliffs, Norfolk, UK"
