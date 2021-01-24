@@ -4,8 +4,8 @@ excerpt: "Travel photos"
 layout: single
 permalink: /photography.html
 gallery:
-  - url: /assets/images/home.jpg
-    image_path: /assets/images/home.jpg
+  - url: /assets/images/edinburghSunrise.jpg
+    image_path: /assets/images/edinburghSunrise.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
   - url: /assets/images/avatar.jpg
