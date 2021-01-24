@@ -24,10 +24,10 @@ gallery:
     image_path: /assets/images/avatar.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"
-  - url: /assets/images/avatar.jpg
-    image_path: /assets/images/avatar.jpg
-    alt: "placeholder image 6"
-    title: "Image 6 title caption"
+  - url: /assets/images/hunstantonCliff.jpg
+    image_path: /assets/images/hunstantonCliff.jpg
+    alt: "Hunstanton Cliffs, Norfolk, UK"
+    title: "Hunstanton Cliffs, Norfolk, UK"
 ---
 
 {% include gallery class="full" layout="half" %}
