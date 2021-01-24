@@ -102,6 +102,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: false
       share: false
       related: false
@@ -112,15 +113,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _blog
-  - scope:
-      path: ""
-      type: blog
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      show_date: true
   # _cheatsheets
   - scope:
       path: ""
@@ -137,9 +129,6 @@ tag_archive:
   path: /tags/
 
 collections:
-  blog:
-    output: true
-    permalink: /:collection/:path/
   cheatsheets:
     output: true
     permalink: /:collection/:path/
