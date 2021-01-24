@@ -16,10 +16,10 @@ gallery:
     image_path: /assets/images/glencoeDeer.jpg
     alt: "Glencoe, Scotland"
     title: "Glencoe, Scotland"
-  - url: /assets/images/avatar.jpg
-    image_path: /assets/images/avatar.jpg
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+  - url: /assets/images/callanderCoo.jpg
+    image_path: /assets/images/callanderCoo.jpg
+    alt: "Callander, Scotland"
+    title: "Callander, Scotland"
   - url: /assets/images/avatar.jpg
     image_path: /assets/images/avatar.jpg
     alt: "placeholder image 5"
