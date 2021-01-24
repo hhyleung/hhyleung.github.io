@@ -2,6 +2,10 @@
 title: "Splunk Fundamentals 1"
 excerpt: "For Splunk Core Certified User"
 last_modified_at: 2021-01-23
+categories:
+  - cheatsheets
+tags:
+  - Splunk
 ---
 
 ## Key points
@@ -33,7 +37,7 @@ last_modified_at: 2021-01-23
 - <span style="color:#F78B21">Orange</span>: booleans `OR` and command modifiers `by`
 - <span style="color:#1F5CFF">Blue</span>: commands `stats`
 - <span style="color:#5CA301">Green</span>: command arguments `span`
-- <span style="color:#D100D3">Purple</span>: functions <span style="color:#D100D3">`sum`</span>
+- <span style="color:#D100D3">Purple</span>: functions `sum`
 
 ## `top` and `rare` commands
 - `limit`: number of results
