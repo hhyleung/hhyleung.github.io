@@ -1,10 +1,25 @@
 ---
 title: "AWS Cloud Practitioner"
-last_modified_at: 2021-02-06
+excerpt: "For AWS Cloud Practitioner"
+last_modified_at: 2021-01-25
 ---
 
-## Key points
+## Cloud computing advantages
+1. Capital expense -> variable expense
+2. Massive exconomies of scale
+3. Stop guessing capacity
+4. Increase speed and agility
+5. Stop paying and maintaning data centers
+6. Go global in minutes
 
+## Well architected framework
+1. Operational Excellence
+2. Security
+3. Reliability
+4. Performance Efficiency
+5. Cost Optimisation
+
+## AWS products
 
 ## Study Resources
 - <https://www.aws.training/Details/eLearning?id=60697>
