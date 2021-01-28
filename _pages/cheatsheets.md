@@ -5,4 +5,7 @@ permalink: /cheatsheets/
 collection: cheatsheets
 entries_layout: grid
 classes: wide
+excerpt: excerpt
 ---
+
+testing
