@@ -9,5 +9,5 @@ last_modified_at: 2021-01-24
 - `search` only compare one field, `where` can compare different fields
 
 ## Study resources
-- <https://education.splunk.com/course/splunk-7x-fundamentals-part-1-elearning>
+- <https://education.splunk.com/course/splunk-7x-fundamentals-part-2-iod>
 - <https://www.examtopics.com/exams/splunk/splk-1002/>
