@@ -11,7 +11,8 @@ gallery:
   - url: /assets/images/doverCliff.jpg
     image_path: /assets/images/doverCliff.jpg
     alt: "White Cliffs of Dover, UK"
-    title: "White Cliffs of Dover, UK"
+	title: "White Cliffs of Dover, UK"
+wildlife:
   - url: /assets/images/glencoeDeer.jpg
     image_path: /assets/images/glencoeDeer.jpg
     alt: "Glencoe, Scotland"
@@ -19,7 +20,8 @@ gallery:
   - url: /assets/images/callanderCoo.jpg
     image_path: /assets/images/callanderCoo.jpg
     alt: "Callander, Scotland"
-    title: "Callander, Scotland"
+	title: "Callander, Scotland"
+landscape:
   - url: /assets/images/zennorCoast.jpg
     image_path: /assets/images/zennorCoast.jpg
     alt: "Zennor, Cornwall, UK"
@@ -30,4 +32,8 @@ gallery:
     title: "Hunstanton Cliffs, Norfolk, UK"
 ---
 
+Check out [@excursionist.scrapbook](https://www.instagram.com/excursionist.scrapbook) for more
+
 {% include gallery class="full" layout="half" %}
+{% include gallery id="wildlife" class="full" %}
+{% include gallery id="landscape" class="full" layout="half" %}
