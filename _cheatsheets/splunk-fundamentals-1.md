@@ -5,18 +5,18 @@ last_modified_at: 2021-01-23
 ---
 
 ## Key points
-- boolean order: `NOT` -> `OR` -> `AND`
-- default deployed with search and home app
+- Boolean order: `NOT` -> `OR` -> `AND`
+- Default deployed with search and home app
 - `top` and `rare` return 10 results
-- field names are case sensitive, field values are not
+- Field names are case sensitive, field values are not
 - `@` round down to nearest time unit
-- jobs are available for 10 mins by default, should schedule report for longer lifetime
-- interesting fields: in at least 20% of resulting events
+- Jobs are available for 10 mins by default, should schedule report for longer lifetime
+- Interesting fields: in at least 20% of resulting events
 - `!=` field must have value, `NOT` includes those without value (null or field does not exist at all)
 - `dedup` remove duplicates
-- zooming in and out the timeline re-executes the search, click and drag does not
+- Zooming in and out the timeline re-executes the search, click and drag does not
 - Splunk Cloud is Splunk Enterprise as a scalable service
-- premium enhanced solutions: user behaviour analytics, IT service intelligence, enterprise security
+- Premium enhanced solutions: user behaviour analytics, IT service intelligence, enterprise security
 
 ## Splunk components
 - Indexer: process and index data, includes license meter
