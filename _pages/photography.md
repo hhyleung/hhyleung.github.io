@@ -15,4 +15,4 @@ highlight:
 
 Check out [@excursionist.scrapbook](https://www.instagram.com/excursionist.scrapbook) for more
 
-{% include gallery id="highlight" layout="half" %}
+{% include gallery id="highlight" class="full" layout="half" %}
