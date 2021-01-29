@@ -4,14 +4,14 @@ excerpt: "Travel photos"
 layout: single
 permalink: /photography.html
 highlight:
-  - url: /assets/images/edinburghSunrise.jpg
+  - url: /assets/images/edinbursghSunrise.jpg
     image_path: /assets/images/edinburghSunrise.jpg
     alt: "Portobello Beach, Edinburgh, Scotland"
     title: "Portobello Beach, Edinburgh, Scotland"
   - url: /assets/images/doverCliff.jpg
     image_path: /assets/images/doverCliff.jpg
     alt: "White Cliffs of Dover, UK"
-	title: "White Cliffs of Dover, UK"
+    title: "White Cliffs of Dover, UK"
 wildlife:
   - url: /assets/images/yorkshireLamb.jpg
     image_path: /assets/images/yorkshireLamb.jpg
@@ -24,7 +24,7 @@ wildlife:
   - url: /assets/images/callanderCoo.jpg
     image_path: /assets/images/callanderCoo.jpg
     alt: "Callander, Scotland"
-	title: "Callander, Scotland"
+    title: "Callander, Scotland"
 landscape:
   - url: /assets/images/zennorCoast.jpg
     image_path: /assets/images/zennorCoast.jpg
