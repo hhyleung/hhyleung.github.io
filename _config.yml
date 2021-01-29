@@ -17,7 +17,7 @@ title: Hannah's Archive
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
   Tech portfolio of Hannah Leung
-twitter_username: username
+twitter_username: hannahhyleung
 github_username: hhyleung
 minimal_mistakes_skin: contrast
 search: true
@@ -62,12 +62,9 @@ author:
   bio: "Security and Photography"
   location: "Hong Kong"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      #url: "https://hhyleung.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
+      url: "https://twitter.com/hannahhyleung"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hhyleung"
@@ -82,7 +79,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/"
+      url: "https://twitter.com/hannahhyleung"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hhyleung"
