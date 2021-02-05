@@ -4,7 +4,7 @@ excerpt: "Travel photos"
 layout: single
 permalink: /photography.html
 highlight:
-  - url: /assets/images/edinbursghSunrise.jpg
+  - url: /assets/images/edinburghSunrise.jpg
     image_path: /assets/images/edinburghSunrise.jpg
     alt: "Portobello Beach, Edinburgh, Scotland"
     title: "Portobello Beach, Edinburgh, Scotland"
