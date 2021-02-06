@@ -1,6 +1,6 @@
 ---
 title: "Splunk Fundamentals 1"
-excerpt: "For SPLK 1001 - Splunk Core Certified User"
+excerpt: "For SPLK 1001 Splunk Core Certified User"
 last_modified_at: 2021-01-23
 ---
 
