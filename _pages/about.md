@@ -7,9 +7,11 @@ permalink: /about.html
 ![Sunrise at Edinburgh]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
 {: .full}
 
-Someone who probably has too much interest and always wants to learn a bit of this and that. For work, I specialise in cyber security, particularly interested in web application security, penetration testing, and digital forensics. Outside the professional area, I enjoy travelling alone in the wilderness, do some landscape and wildlife photography, playing piano and launchpad, and a little bit of watercolour and oil painting.
+Someone who probably has too much interest and always wants to learn a bit of this and that.
 
-I would like to record after learning journey to keep myself motivated, which is what this website is for, simply a medium that allows me to organise what I have learned and want to learn.
+For work, I specialise in cyber security, particularly interested in web application security, penetration testing, and digital forensics. Outside the professional area, I enjoy travelling alone in the wilderness, do some landscape and wildlife photography, playing piano and launchpad, and a little bit of watercolour and oil painting.
+
+I would like to record down my learning journey to keep myself motivated, which is what this website is for, simply a medium that allows me to organise what I have learned and want to learn.
 
 ## Certificates
 2021-02-01 AWS Certified Cloud Practitioner
