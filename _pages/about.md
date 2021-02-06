@@ -9,46 +9,30 @@ permalink: /about.html
 
 Someone who probably has too much interest and always wants to learn a bit of this and that.
 
-For work, I specialise in cyber security, particularly interested in web application security, penetration testing, and digital forensics. Outside the professional area, I enjoy travelling alone in the wilderness, do some landscape and wildlife photography, playing piano and launchpad, and a little bit of watercolour and oil painting.
+For work, I specialise in cyber security, particularly interested in web application security, penetration testing, and digital forensics. Outside the professional area, I enjoy travelling alone in the wilderness, do some landscape and wildlife photography, cooking and baking, playing piano and launchpad, and a little bit of watercolour and oil painting.
 
 I would like to record down my learning journey to keep myself motivated, which is what this website is for, simply a medium that allows me to organise what I have learned and want to learn.
 
 ## Certificates
-2021-02-01 AWS Certified Cloud Practitioner
+01 Feb 2021 - AWS Certified Cloud Practitioner
 
-### On list
-2021-03-06 AWS Certified Solutions Architect - Associate
+### Targets
+06 Mar 2021 - AWS Certified Solutions Architect - Associate
 
-Mar 2021 SLAE
+Mar 2021 - SLAE
 
-Mar 2021 SLAEx64
+Mar 2021 - SLAEx64
 
-Apr 2021 AWS Certified Developer - Associate
+Apr 2021 - AWS Certified Security - Speciality
 
-May 2021 AWS Certified SysOps Administrator - Associate
+May 2021 - CCNP Security
 
-Jun 2021 AWS Certified Security - Speciality
+Aug 2021 - OSCP
 
-Jul 2021 CCNP Security
+Sep 2021 - Azure Fundamentals
 
-Aug 2021 CCNP Enterprise
+Oct 2021 - Azure Security Engineer Associate
 
-Nov 2021 OSCP
+Nov 2021 - GCP Associate Cloud Engineer
 
-<!-- Mar 2022 eCPPTv2
-
-May 2022 eWPT
-
-Jul 2022 eCDFP
-
-Sep 2022 eMAPT
-
-Feb 2023 AWS Certified DevOps - Professional
-
-Apr 2023 AWS Certified Solution Architect - Professional
-
-Jul 2023 GSEC
-
-Sep 2024 CISSP
-
-Oct 2024 CISM -->
+Dec 2021 - GCP Professional Cloud Security Engineer
