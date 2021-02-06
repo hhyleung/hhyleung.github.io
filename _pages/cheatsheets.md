@@ -8,4 +8,4 @@ entries_layout: grid
 classes: wide
 ---
 
-These are last minute cheatsheets written when revising for certification exams. Note that these cheatsheets do not include all topics covered in the exam, but rather a few points/topics that are easily confused or forgotten.
+These are last minute cheatsheets I made when I was revising for certification exams. Note that these cheatsheets do not include all topics covered in the exam, but rather a few points/topics that are easily confused or forgotten.
