@@ -229,8 +229,8 @@ last_modified_at: 2021-02-16
 - Amazon Lumberyard: 3D game engine
 - AWS IoT Core: manage IoT devices (connection and communication)
 - AWS Partner Device Catalog: find compatible device and hardware for IoT solutions
-- Amazon Elastic Transcoder: new media transcoder
-- AWS Elemental MediaConvert: video transcoder
+- Amazon Elastic Transcoder: media transcoder
+- AWS Elemental MediaConvert: new video transcoder
 - AWS RoboMaker: manage robotics applications
 - AWS Ground Station: serverless satellite operations
 
