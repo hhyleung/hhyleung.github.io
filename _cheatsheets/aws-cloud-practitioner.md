@@ -234,7 +234,7 @@ last_modified_at: 2021-02-16
 - AWS RoboMaker: manage robotics applications
 - AWS Ground Station: serverless satellite operations
 
-## Study Resources
+## Study resources
 - AWS official training: <https://www.aws.training/Details/eLearning?id=60697>
 - AWS overview whitepaper: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf>
 - Cloud practitioner full course: <https://www.youtube.com/watch?v=3hLmDS179YE>
