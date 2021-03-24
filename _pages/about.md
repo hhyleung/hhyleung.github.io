@@ -14,9 +14,9 @@ For work, I specialise in cyber security, particularly interested in web applica
 I would like to record down my learning journey to keep myself motivated, which is what this website is for, simply a medium that allows me to organise what I have learned and want to learn.
 
 ## Certificates
-01 Feb 2021 - AWS Certified Cloud Practitioner
-06 Mar 2021 - AWS Certified Solutions Architect - Associate
-21 Mar 2021 - Splunk Phantom Certified Admin
+- 01 Feb 2021 - AWS Certified Cloud Practitioner
+- 06 Mar 2021 - AWS Certified Solutions Architect - Associate
+- 21 Mar 2021 - Splunk Phantom Certified Admin
 
 ### Targets
 Mar 2021 - SLAE
