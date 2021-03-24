@@ -15,10 +15,10 @@ I would like to record down my learning journey to keep myself motivated, which 
 
 ## Certificates
 01 Feb 2021 - AWS Certified Cloud Practitioner
+06 Mar 2021 - AWS Certified Solutions Architect - Associate
+21 Mar 2021 - Splunk Phantom Certified Admin
 
 ### Targets
-06 Mar 2021 - AWS Certified Solutions Architect - Associate
-
 Mar 2021 - SLAE
 
 Mar 2021 - SLAEx64
