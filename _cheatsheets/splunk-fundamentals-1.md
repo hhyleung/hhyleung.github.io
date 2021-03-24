@@ -61,5 +61,5 @@ last_modified_at: 2021-01-23
 - `values(field)`: unique values of field
 
 ## Study resources
-- <https://education.splunk.com/course/splunk-7x-fundamentals-part-1-elearning>
-- <https://www.examtopics.com/exams/splunk/splk-1001/>
+- Splunk Fundamentals 1: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html>
+- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1001/>
