@@ -13,10 +13,10 @@ last_modified_at: 2021-02-16
 
 ## Cloud computing advantages
 1. Capital expense -> variable expense
-2. Massive exconomies of scale
+2. Massive economies of scale
 3. Stop guessing capacity
 4. Increase speed and agility
-5. Stop paying and maintaning data centers
+5. Stop paying and maintaining data centres
 6. Go global in minutes
 
 ## AWS values
@@ -78,11 +78,11 @@ last_modified_at: 2021-02-16
 - Amazon EC2 (elastic compute cloud): VM
     - On demand: pay by second based on hourly rate
     - Reserved: 75% discount, 3-year convertible cheapest
-    - Spot: 90% discount, short and interruptable
+    - Spot: 90% discount, short and interruptible
     - Dedicated: isolated hardware
 - Amazon EC2 Auto Scaling: adjust number of EC2
-- Amaozn ECR (elastic container registry): manage Docker containers
-- Amazon ECS (elastic containter service): orchestration for Docker containers
+- Amazon ECR (elastic container registry): manage Docker containers
+- Amazon ECS (elastic container service): orchestration for Docker containers
 - Amazon EKS (elastic kubernetes service): manage k8s containers
 - Amazon Lightsail: user friendly deployment for small applications
 - AWS Batch: manage batch jobs
@@ -94,7 +94,7 @@ last_modified_at: 2021-02-16
 - VMware Cloud on AWS: vSphere on AWS
 
 ### Customer engagement
-- Amazon Connect: customer support center
+- Amazon Connect: customer support centre
 - Amazon SES (simple email service): send professional email
 
 ### Database
@@ -183,7 +183,7 @@ last_modified_at: 2021-02-16
 - Amazon CloudFront: CDN
 - Amazon Route 53: DNS
 - AWS PrivateLink: private connection between VPC and on-prem
-- AWS Direct Connect: fiber direct connection
+- AWS Direct Connect: fibre direct connection
 - AWS Global Accelerator: find optimal path to reach resources
 - Amazon API Gateway: serverless API
 - AWS Transit Gateway: connect multiple VPC and on-prem networks
@@ -215,11 +215,11 @@ last_modified_at: 2021-02-16
 
 ### Storage
 - Amazon S3 (simple storage service): object storage, not file system, 99.999999999% durability
-- Amazon EBS (elastic block store): persistant instance storage
+- Amazon EBS (elastic block store): persistent instance storage
 - Amazon EFS (elastic file system): shared Linux file system
 - Amazon FSx for Lustre: serverless file system for compute-intensive workloads
 - Amazon FSx for Windows File Server: serverless Windows file system
-- Amazon S3 Glacier: data archiving, slow retreival
+- Amazon S3 Glacier: data archiving, slow retrieval
 - AWS Storage Gateway: hybrid storage
 
 ### Others
