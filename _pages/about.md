@@ -17,22 +17,23 @@ I would like to record down my learning journey to keep myself motivated, which 
 - 01 Feb 2021 - AWS Certified Cloud Practitioner
 - 06 Mar 2021 - AWS Certified Solutions Architect - Associate
 - 21 Mar 2021 - Splunk Phantom Certified Admin
+- 06 Apr 2021 - AWS Certified Security - Speciality
+- 19 May 2021 - Microsoft Certified: Azure Fundamentals
+- 30 May 2021 - Microsoft Certified: Azure Administrator Associate
 
 ### Targets
-Mar 2021 - SLAE
+Jul 2021 - CCNA (Cisco Certified Network Associate)
 
-Mar 2021 - SLAEx64
+Jul 2021 - Splunk Core Certified Power User
 
-Apr 2021 - AWS Certified Security - Speciality
+Jul 2021 - Azure Security Engineer Associate
 
-May 2021 - CCNP Security
+Jul 2021 - SecurityTube Linux Assembly Expert
 
-Aug 2021 - OSCP
+Aug 2021 - SecurityTube Linux Assembly64 Expert
 
-Sep 2021 - Azure Fundamentals
+Aug 2021 - Splunk Enterprise Certified Admin
 
-Oct 2021 - Azure Security Engineer Associate
+Aug 2021 - Splunk Enterprise Certified Admin
 
-Nov 2021 - GCP Associate Cloud Engineer
-
-Dec 2021 - GCP Professional Cloud Security Engineer
+Dec 2021 - OSCP (Offensive Security Certified Professional)
