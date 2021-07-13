@@ -22,12 +22,8 @@ I would like to record down my learning journey to keep myself motivated, which 
 - 30 May 2021 - Microsoft Certified: Azure Administrator Associate
 - 13 Jul 2021 - Splunk Core Certified Power User
 
-### Targets
+## Targets
 Jul 2021 - CCNA (Cisco Certified Network Associate)
-
-Jul 2021 - SecurityTube Linux Assembly Expert
-
-Aug 2021 - SecurityTube Linux Assembly64 Expert
 
 Aug 2021 - Splunk Enterprise Certified Admin
 
