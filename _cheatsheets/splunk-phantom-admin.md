@@ -1,5 +1,5 @@
 ---
-title: "Splunk Phantom Certified Admin"
+title: "Splunk Phantom Admin"
 excerpt: "For SPLK 2003 Splunk Phantom Certified Admin"
 last_modified_at: 2021-03-21
 ---
@@ -18,5 +18,7 @@ last_modified_at: 2021-03-21
 - Advanced Phantom Implementation: <https://www.splunk.com/en_us/training/courses/advanced-phantom-implementation.html>
 
 ## Exam
-- Exam time: 57 mins
-- No. of questions: 58 MCQs
+- Study time: 5 half days of virtual training
+- Exam time: 28 minutes
+- Result: PASS
+- Note: apart from the actual playbook logic and data path, make sure to be familiar with the GUI and the integration with Splunk
