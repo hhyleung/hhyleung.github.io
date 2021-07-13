@@ -20,13 +20,10 @@ I would like to record down my learning journey to keep myself motivated, which 
 - 06 Apr 2021 - AWS Certified Security - Speciality
 - 19 May 2021 - Microsoft Certified: Azure Fundamentals
 - 30 May 2021 - Microsoft Certified: Azure Administrator Associate
+- 13 Jul 2021 - Splunk Core Certified Power User
 
 ### Targets
 Jul 2021 - CCNA (Cisco Certified Network Associate)
-
-Jul 2021 - Splunk Core Certified Power User
-
-Jul 2021 - Azure Security Engineer Associate
 
 Jul 2021 - SecurityTube Linux Assembly Expert
 
@@ -34,6 +31,8 @@ Aug 2021 - SecurityTube Linux Assembly64 Expert
 
 Aug 2021 - Splunk Enterprise Certified Admin
 
-Aug 2021 - Splunk Enterprise Certified Admin
+Sep 2021 - Splunk Enterprise Certified Architect
 
-Dec 2021 - OSCP (Offensive Security Certified Professional)
+Dec 2021 - BTL1 (Blue Team Level 1)
+
+Mar 2022 - OSCP (Offensive Security Certified Professional)
