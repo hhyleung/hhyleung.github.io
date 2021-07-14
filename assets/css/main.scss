@@ -7,10 +7,19 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-$text-color: #323232 !important;
-$primary-color: #dcdcdc !important;
-$footer-background-color: #464646 !important;
+// table of content colour
+.toc {
+  .nav__title {
+      backgroud: #dcdcdc;
+    }
+}
 
+// footer colour
+.page__footer {
+  color: #464646 !important;
+}
+
+// font sizes
 html {
     font-size: 14px;
 
