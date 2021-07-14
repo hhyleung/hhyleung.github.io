@@ -4,6 +4,8 @@ excerpt: "For SPLK 2003 Splunk Phantom Certified Admin"
 last_modified_at: 2021-03-21
 ---
 
+For SPLK 2003 Splunk Phantom Certified Admin
+
 ## Key areas
 - Connection with Splunk
 - Web console GUI
