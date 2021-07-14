@@ -1,10 +1,8 @@
 ---
 title: "AWS Cloud Practitioner"
 excerpt: "For CLF-C01 AWS Certified Cloud Practitioner"
-last_modified_at: 2021-02-16
+date: 2021-02-16
 ---
-
-For CLF-C01 AWS Certified Cloud Practitioner
 
 ## Key points
 - Region -> Availability Zones -> Edge Locations
