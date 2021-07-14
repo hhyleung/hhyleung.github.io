@@ -2,6 +2,11 @@
 title: "Splunk Power User"
 excerpt: "For SPLK 1002 Splunk Core Certified Power User"
 last_modified_at: 2021-07-13
+toc: true
+toc_label: "Content"
+toc_sticky: true
+tags:
+  - Splunk
 ---
 
 ## Key points
