@@ -54,8 +54,16 @@ p {
   margin-bottom: 1em;
 }
 
-// center footer
+// footer
 .page__footer {
   float: none;
   text-align: center;
+  margin: 0;
+}
+
+// sidebar
+.sidebar {
+  @include breakpoint($large) {
+    opacity: 0.85;
+  }
 }
