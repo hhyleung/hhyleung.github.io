@@ -2,6 +2,12 @@
 title: "AWS Cloud Practitioner"
 excerpt: "For CLF-C01 AWS Certified Cloud Practitioner"
 last_modified_at: 2021-02-16
+toc: true
+toc_label: "Content"
+toc_sticky: true
+tags:
+  - AWS
+  - Cloud
 ---
 
 ## Key points
