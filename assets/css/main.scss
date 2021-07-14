@@ -62,7 +62,7 @@ p {
   
   footer {
     margin-top: 0;
-    padding: 1em;
+    padding: 0.7em;
   }
 }
 
@@ -71,4 +71,8 @@ p {
   @include breakpoint($large) {
     opacity: 0.85;
   }
+}
+
+.author__content {
+  padding-right: 10px;
 }
