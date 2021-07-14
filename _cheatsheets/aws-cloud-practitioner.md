@@ -4,6 +4,8 @@ excerpt: "For CLF-C01 AWS Certified Cloud Practitioner"
 last_modified_at: 2021-02-16
 ---
 
+For CLF-C01 AWS Certified Cloud Practitioner
+
 ## Key points
 - Region -> Availability Zones -> Edge Locations
 - Standard reserved instances can be sold in the Marketplace, convertible reserved instances can be exchanged with a different configuration
