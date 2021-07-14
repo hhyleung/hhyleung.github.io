@@ -1,6 +1,7 @@
 ---
 title: "Splunk Phantom Admin"
 excerpt: "For SPLK 2003 Splunk Phantom Certified Admin"
+date: 2021-03-21
 last_modified_at: 2021-03-21
 ---
 
