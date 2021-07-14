@@ -2,7 +2,6 @@
 title: "About"
 layout: single
 permalink: /about.html
-classes: wide
 ---
 
 ![Sunrise at Edinburgh]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
