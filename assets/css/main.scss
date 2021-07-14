@@ -10,32 +10,32 @@
 // table of content colour
 .toc {
   .nav__title {
-      backgroud: #dcdcdc !important;
-    }
-}
-
-// footer colour
-.page__footer {
-    background-color: #464646 !important;
+    color: #000;
+    background: #dcdcdc;
+  }
+  
+  .active a {
+    @include yiq-contrasted(#f0f0f0);
+  }
 }
 
 // font sizes
 html {
+  font-size: 14px;
+
+  @include breakpoint($small) {
+    font-size: 12px;
+  }
+
+  @include breakpoint($medium) {
     font-size: 14px;
+  }
 
-    @include breakpoint($small) {
-        font-size: 12px;
-    }
+  @include breakpoint($large) {
+    font-size: 14px;
+  }
 
-    @include breakpoint($medium) {
-        font-size: 14px;
-    }
-
-    @include breakpoint($large) {
-        font-size: 14px;
-    }
-
-    @include breakpoint($x-large) {
-        font-size: 16px;
-    }
+  @include breakpoint($x-large) {
+    font-size: 16px;
+  }
 }
