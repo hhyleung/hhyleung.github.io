@@ -30,7 +30,7 @@ layout: default
           <!-- display excerpt -->
           {% if page.excerpt %}<p itemprop="description">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>{% endif %}
           <!-- move date upwards -->
-          {% if page.last_modified_at %}<p itemprop="dateModified"><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated: <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: date_format }}</time></p>{% endif %}
+          {% if page.last_modified_at %}<p itemprop="dateModified"><i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated: <time datetime="{{ page.last_modified_at | date: date_to_xmlschema  }}">{{ page.last_modified_at | date: date_format }}</time></p>{% endif %}
           {% include page__meta.html %}
         </header>
       {% endunless %}
