@@ -7,29 +7,24 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-$text-color: #323232 !default;
-$muted-text-color: $text-color !default;
-$primary-color: #dcdcdc !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #464646 !default;
-$link-color: #dcdcdc !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$text-color: #323232;
+$muted-text-color: mix(#fff, $text-color, 20%);
+$primary-color: #dcdcdc;
+$footer-background-color: #464646;
 
 html {
-    font-size: 14px;
+    font-size: 16px;
 
     @include breakpoint($small) {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     @include breakpoint($medium) {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     @include breakpoint($large) {
-        font-size: 14px;
+        font-size: 16px;
     }
 
     @include breakpoint($x-large) {
