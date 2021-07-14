@@ -2,6 +2,7 @@
 title: "Photography"
 layout: single
 permalink: /photography.html
+classes: wide
 highlight:
   - url: /assets/images/edinburghSunrise.jpg
     image_path: /assets/images/edinburghSunrise.jpg
