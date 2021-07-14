@@ -4,8 +4,6 @@ excerpt: "For SPLK 1002 Splunk Core Certified Power User"
 last_modified_at: 2021-07-13
 ---
 
-For SPLK 1002 Splunk Core Certified Power User
-
 ## Key points
 - Boolean order: `NOT` -> `OR` -> `AND`
 - Filter efficiency: time range -> `index` -> `source` -> `host` -> `sourcetype`
