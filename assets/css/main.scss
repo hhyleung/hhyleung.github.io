@@ -47,16 +47,23 @@ html {
 
 // margins
 h1,
-h2,
+h2 {
+  margin: 1.5em 0 0.5em;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  margin: 1.5em 0 0.5em;
+  margin: 1em 0 0.5em;
 }
 
 p {
   margin-bottom: 1em;
+}
+
+.page__meta {
+  margin-top: 1em;
 }
 
 // footer
