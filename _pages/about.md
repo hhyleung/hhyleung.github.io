@@ -21,11 +21,10 @@ I would like to record down my learning journey to keep myself motivated, which 
 - 19 May 2021 - Microsoft Certified: Azure Fundamentals
 - 30 May 2021 - Microsoft Certified: Azure Administrator Associate
 - 13 Jul 2021 - Splunk Core Certified Power User
+- 12 Aug 2021 - Splunk Enterprise Certified Admin
 
 ## Targets
-Jul 2021 - CCNA (Cisco Certified Network Associate)
-
-Aug 2021 - Splunk Enterprise Certified Admin
+Sep 2021 - CCNA (Cisco Certified Network Associate)
 
 Sep 2021 - Splunk Enterprise Certified Architect
 
