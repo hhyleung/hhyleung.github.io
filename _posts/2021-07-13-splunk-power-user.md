@@ -6,6 +6,7 @@ toc: true
 toc_label: "Content"
 toc_sticky: true
 tags:
+  - Cheatsheets
   - Splunk
 ---
 
