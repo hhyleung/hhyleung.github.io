@@ -1,6 +1,5 @@
 ---
 title: "Certificates"
-excerpt: "Technical certificates obtianed throughout the years"
 layout: single
 permalink: /certificates.html
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Cheatsheets"
-excerpt: "Last minute cheatsheets written when revising for certification exams"
 layout: single
 permalink: /cheatsheets.html
 ---
@@ -10,9 +9,9 @@ These are last minute cheatsheets I made when I was revising for certification e
 A list of technical certificates that I have obtained can be found at the [certificates]({{ site.url }}{{ site.baseurl }}/certificates.html) page.
 
 ## Cloud
-[AWS Cloud Practitioner]({{ site.url }}{{ site.baseurl }}/cheatsheets/aws-cloud-practitioner/)
+- [AWS Cloud Practitioner]({{ site.url }}{{ site.baseurl }}/cheatsheets/aws-cloud-practitioner/)
 
 ## Splunk
-[Splunk Phantom Admin]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-phantom-admin/)
-[Splunk Enterprise Admin]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-enterprise-admin/)
-[Splunk Power User]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-power-user/)
+- [Splunk Phantom Admin]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-phantom-admin/)
+- [Splunk Enterprise Admin]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-enterprise-admin/)
+- [Splunk Power User]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-power-user/)
