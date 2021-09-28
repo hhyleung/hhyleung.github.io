@@ -1,32 +1,38 @@
 ---
-title: "About"
-layout: single
+layout: splash
 permalink: /
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
+  actions:
+    - label: "<i class='fas fa-download'></i> Install now"
+      url: "/docs/quick-start-guide/"
+excerpt: >
+  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
+feature_row:
+  - image_path: /assets/images/mm-customizable-feature.png
+    alt: "customizable"
+    title: "Super customizable"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-responsive-feature.png
+    alt: "fully responsive"
+    title: "Responsive layouts"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/mm-free-feature.png
+    alt: "100% free"
+    title: "100% free"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
 ---
 
-![Sunrise at Edinburgh]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
-{: .full}
-
-Someone who probably has too many interests and always wants to learn a bit of this and that.
-
-For work, I specialise in cyber security, particularly interested in web application security, penetration testing, and digital forensics. Outside the professional area, I enjoy travelling alone in the wilderness, do some landscape and wildlife photography, cooking and baking, playing piano and launchpad, and a little bit of watercolour and oil painting.
-
-I would like to record down my learning journey to keep myself motivated, which is what this website is for, simply a medium that allows me to organise what I have learnt and want to learn.
-
-## Certificates
-- 14 Sep 2021 - Splunk Enterprise Certified Architect
-- 12 Aug 2021 - Splunk Enterprise Certified Admin
-- 13 Jul 2021 - Splunk Core Certified Power User
-- 30 May 2021 - Microsoft Certified: Azure Administrator Associate
-- 19 May 2021 - Microsoft Certified: Azure Fundamentals
-- 06 Apr 2021 - AWS Certified Security - Speciality
-- 21 Mar 2021 - Splunk Phantom Certified Admin
-- 06 Mar 2021 - AWS Certified Solutions Architect - Associate
-- 01 Feb 2021 - AWS Certified Cloud Practitioner
-
-## Targets
-Oct 2021 - BTL1 (Blue Team Level 1)
-
-Oct 2021 - CCNA (Cisco Certified Network Associate)
-
-Mar 2022 - OSCP (Offensive Security Certified Professional)
+{% include feature_row %}
