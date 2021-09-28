@@ -5,8 +5,9 @@ last_modified_at: 2021-03-21
 toc: true
 toc_label: "Content"
 toc_sticky: true
-tags:
+categories:
   - Cheatsheets
+tags:
   - Splunk
 ---
 
