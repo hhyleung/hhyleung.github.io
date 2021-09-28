@@ -5,7 +5,6 @@ layout: single
 permalink: /certificates.html
 ---
 
-# Certificates
 - 14 Sep 2021 - Splunk Enterprise Certified Architect
 - 12 Aug 2021 - Splunk Enterprise Certified Admin
 - 13 Jul 2021 - Splunk Core Certified Power User
@@ -16,7 +15,7 @@ permalink: /certificates.html
 - 06 Mar 2021 - AWS Certified Solutions Architect - Associate
 - 01 Feb 2021 - AWS Certified Cloud Practitioner
 
-# Targets
+## Targets
 Oct 2021 - BTL1 (Blue Team Level 1)
 
 Oct 2021 - CCNA (Cisco Certified Network Associate)

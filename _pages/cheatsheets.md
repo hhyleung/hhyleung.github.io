@@ -1,7 +1,7 @@
 ---
 title: "Cheatsheets"
 excerpt: "Last minute cheatsheets written when revising for certification exams"
-layout: simple
+layout: single
 permalink: /cheatsheets.html
 ---
 
