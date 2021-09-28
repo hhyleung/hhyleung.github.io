@@ -4,8 +4,8 @@ main:
     url: /posts/
   - title: "Cheatsheets"
     url: /cheatsheets
-  - title: "Books"
-    url: /books
+  - title: "Readings"
+    url: /readings
   - title: "Photography"
     url: /photography
   - title: "Demo"
