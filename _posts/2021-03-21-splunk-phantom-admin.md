@@ -33,3 +33,5 @@ tags:
 - Exam time: 28 minutes
 - Result: PASS
 - Note: apart from the actual playbook logic and data path, make sure to be familiar with the GUI and the integration with Splunk
+
+<br>

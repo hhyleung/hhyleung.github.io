@@ -300,3 +300,5 @@ tags:
 - Exam time: 27 minutes
 - Result: 881 / 1000 PASS
 - Note: mainly testing on the understanding of different AWS products, a lot of questions were shown in the exam dump
+
+<br>

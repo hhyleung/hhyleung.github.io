@@ -93,3 +93,5 @@ categories:
 
 ## 12. Leave a legacy
 **Live a life that will help others spiritually, intellectually, physically, financially, and relationally, live a life that serves as an example of what an exceptional life can look like**
+
+<br>

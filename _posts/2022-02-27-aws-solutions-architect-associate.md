@@ -24,3 +24,5 @@ tags:
 - Exam time: 82 minutes
 - Result: 743 / 1000 PASS
 - Note: make sure to clearly understand VPC, questions are relatively long and should take note on the actual question at the end (choose the best option based on the specified criteria)
+
+<br>

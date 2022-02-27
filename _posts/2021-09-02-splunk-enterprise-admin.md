@@ -173,3 +173,5 @@ homePath.maxDataSizeMB = <MB>
 - Study time: 5 half days of virtual training
 - Exam time: 21 minutes
 - Result: PASS
+
+<br>
