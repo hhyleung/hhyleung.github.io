@@ -4,6 +4,7 @@ layout: single
 permalink: /certificates.html
 ---
 
+- 02 Jan 2022 - BTL1 (Blue Team Level 1)
 - 14 Sep 2021 - Splunk Enterprise Certified Architect
 - 12 Aug 2021 - Splunk Enterprise Certified Admin
 - 13 Jul 2021 - Splunk Core Certified Power User
@@ -15,8 +16,5 @@ permalink: /certificates.html
 - 01 Feb 2021 - AWS Certified Cloud Practitioner
 
 ## Targets
-Oct 2021 - BTL1 (Blue Team Level 1)
 
-Oct 2021 - CCNA (Cisco Certified Network Associate)
-
-Mar 2022 - OSCP (Offensive Security Certified Professional)
+May 2022 - EnCE (EnCase Certified Examiner)
