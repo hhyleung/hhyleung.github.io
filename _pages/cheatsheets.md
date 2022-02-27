@@ -4,7 +4,7 @@ layout: single
 permalink: /cheatsheets.html
 ---
 
-These are last minute cheatsheets I made when I was revising for certification exams. Note that these cheatsheets do not include all topics covered in the exam, but rather a few points/topics that are easily confused or forgotten.
+These are last minute cheatsheets I made when I was revising for certification exams. Note that these cheatsheets do not include all topics covered in the exam, but rather a few key points / topics that are easily confused or forgotten.
 
 A list of technical certificates that I have obtained can be found at the [certificates]({{ site.url }}{{ site.baseurl }}/certificates.html) page.
 
