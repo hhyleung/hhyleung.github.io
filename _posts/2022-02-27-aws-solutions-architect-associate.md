@@ -1,5 +1,5 @@
 ---
-title: "AWS Certified Solutions Architect - Associate"
+title: "AWS Solutions Architect - Associate"
 excerpt: "For SAA-C02 AWS Certified Solutions Architect - Associate"
 last_modified_at: 2021-02-27
 toc: true
