@@ -2,6 +2,8 @@
 title: "Splunk Enterprise Admin"
 excerpt: "For SPLK 1003 Splunk Enterprise Certified Admin"
 last_modified_at: 2021-09-02
+stickies: true
+stickies_path: "/assets/stickies/splunk-enterprise-admin.png"
 toc: true
 toc_label: "Content"
 toc_sticky: true
