@@ -6,6 +6,8 @@ categories:
   - Readings
 ---
 
+![Sunrise at Edinburgh]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
+
 ## Book details
 - Author: Jim Rohm, Chris Widener
 - Get it on [Amazon](https://amzn.to/3IrtLDP)
