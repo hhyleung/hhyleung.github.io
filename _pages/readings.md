@@ -4,5 +4,5 @@ layout: single
 permalink: /readings.html
 ---
 
-Reading notes 
-
+## Life
+- [Twelve Pillars]({{ site.url }}{{ site.baseurl }}/readings/twelve-pillars/)
