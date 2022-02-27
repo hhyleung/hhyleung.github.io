@@ -2,11 +2,11 @@
 title: "Twelve Pillars"
 excerpt: ""
 last_modified_at: 2021-10-10
+pic: true
+pic_path: "/assets/images/about.jpg"
 categories:
   - Readings
 ---
-
-![Sunrise at Edinburgh]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
 
 ## Book details
 - Author: Jim Rohm, Chris Widener
