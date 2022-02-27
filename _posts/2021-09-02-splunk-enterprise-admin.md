@@ -82,6 +82,7 @@ tags:
 - Retention limit: `frozenTimePeriodInSecs`
 - Default non-existent index: `lastChangeIndex` (default to empty, drop events)
 - Volumes for fast (hot and warm) and slow (cold)
+
 ```
 [volume:<volume>]
 path = <path>

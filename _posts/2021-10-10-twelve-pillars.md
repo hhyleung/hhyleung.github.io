@@ -8,9 +8,8 @@ categories:
 
 ## Book details
 - Author: Jim Rohm, Chris Widener
-- Find it on [Amazon](https://amzn.to/3IrtLDP)
+- Get it on [Amazon](https://amzn.to/3IrtLDP)
 
-<br>
 
 ## 1. A change encountered - personal development
 **The only way things are going to change for you is when you change**
