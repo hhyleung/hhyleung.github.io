@@ -2,8 +2,8 @@
 title: "Twelve Pillars"
 excerpt: ""
 last_modified_at: 2021-10-10
-pic: true
-pic_path: "/assets/images/about.jpg"
+stickies: true
+stickies_path: "/assets/stickies/twelve-pillars.png"
 categories:
   - Readings
 ---
