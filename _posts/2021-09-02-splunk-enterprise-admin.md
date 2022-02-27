@@ -18,17 +18,23 @@ tags:
 - Only one retention policy per index
 - Integrity of index / bucket: `splunk check-integrity`
 
+<br>
+
 ## Directory
 - `$SPLUNK_HOME`: `/opt/splunk`
 - `$SPLUNK_HOME/bin`: executables (for `splunk` commands)
 - `$SPLUNK_HOME/etc`: licenses, config, apps
 - `$SPLUNK_HOME/var/lib/splunk`: indexes (`$SPLUNK_DB`)
 
+<br>
+
 ## Default ports
 - `splunkd`: 8089
 - Splunk web: 8000
 - Web app-server proxy: 8065
 - KV store: 8191
+
+<br>
 
 ## Licenses
 - Under `$SPLUNK_HOME/etc/licenses`
@@ -43,12 +49,16 @@ tags:
     - Splunk internal logs (_internal, _audit)
     - Structural components of an index (metadata, tsidx)
 
+<br>
+
 ## Apps
 - Can be visible or hidden
 - `splunk remove app` to delete app and dependencies
 - Permissions:
     - Read: use app, add KO, modify KOs they own
     - Write: share KOs they own, delete KOs used in the app
+
+<br>
 
 ## Configuration files
 - Case sensitive with `[stanza]` and `attribute = value` format
@@ -67,6 +77,8 @@ tags:
 - Validate in-memory config: `splunk show config <conf>`
 - Force reload config at `http://<server>:<port>/debug/refresh`
 - Reload all config by restarting `splunk restart`
+
+<br>
 
 ### `indexes.conf`
 - Number of hot buckets: `maxHotBuckets`
@@ -93,11 +105,15 @@ homePath = volume:<volume>/<path>
 homePath.maxDataSizeMB = <MB>
 ```
 
+<br>
+
 ### `authorize.conf`
 - Should not modify `$SPLUNK_HOME/etc/system/default/authorize.conf`
 - Modify locals `$SPLUNK_HOME/etc/system/local` or `$SPLUNK_HOME/etc/apps/<app>/local`
 - Stanza: `[role_<role>]`
 - Grant owned roles only: `edit_roles_grantable`
+
+<br>
 
 ## Indexes
 - `_internal`: Splunk's own logs and metrics
@@ -106,6 +122,8 @@ homePath.maxDataSizeMB = <MB>
 - `_thefishbucket`: checkpoint information for file monitoring inputs
 - `summary`: default index for summary
 - `main`: default index for inputs
+
+<br>
 
 ## Buckets
 - Hot: read/write
@@ -120,6 +138,8 @@ homePath.maxDataSizeMB = <MB>
 - Frozen: optional, not searchable but can be brought back to thawed
     - Restore: copy bucket from frozen path to thawed path and `splunk rebuild <thawedPath>`
 
+<br>
+
 ## Index management
 - Fishbucket: track monitored input files
 - Mark event as deleted and stop showing up from searches: `| delete` with `can_delete` role
@@ -128,6 +148,8 @@ homePath.maxDataSizeMB = <MB>
 - Reset all sources:
     - `splunk clean eventdata -index _thefishbucket`
     - `rm -r $SPLUNK_DB/fishbucket`
+
+<br>
 
 ## Users
 - User password at `$SPLUNK_HOME/etc/passwd`
@@ -138,10 +160,14 @@ homePath.maxDataSizeMB = <MB>
 - Setup admin password: `splunk start --accept-license --answer-yes --no-prompt --seed-passwd <password>`
 - Random admin password: `splunk start --accept-license --answer-yes --no-prompt --gen-and-print-passwd`
 
+<br>
+
 ## Study resources
 - Splunk Enterprise System Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-system-administration.html>
 - Splunk Enterprise Data Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-data-administration.html>
 - Exam dump: <https://www.examtopics.com/exams/splunk/splk-1003>
+
+<br>
 
 ## Exam
 - Study time: 5 half days of virtual training

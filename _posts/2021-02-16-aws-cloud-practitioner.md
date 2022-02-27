@@ -19,6 +19,8 @@ tags:
 - Network ACL (access control list): stateless at subnet, default allow all
 - Security groups: stateful at instances, default deny all
 
+<br>
+
 ## Cloud computing advantages
 1. Capital expense -> variable expense
 2. Massive economies of scale
@@ -27,12 +29,16 @@ tags:
 5. Stop paying and maintaining data centres
 6. Go global in minutes
 
+<br>
+
 ## AWS values
 1. Agility: fast deployment
 2. Elasticity: on demand
 3. Availability: multiple AZ
 4. Flexibility: variety of products
 5. Security: shared responsibility model
+
+<br>
 
 ## Well architected framework pillars
 1. Operational Excellence
@@ -41,11 +47,15 @@ tags:
 4. Performance Efficiency
 5. Cost Optimisation
 
+<br>
+
 ## Support plans
 1. Free
 2. Developer: business hours email
 3. Business: 24x7 email, phone and chat, full Trusted Advisor
 4. Enterprise: dedicated TAM (technical account manager), Concierge support team, SLA < 15 mins for critical cases
+
+<br>
 
 ## AWS products
 ### Analytics
@@ -61,12 +71,16 @@ tags:
 - AWS Lake Formation: secure data lake
 - Amazon MSK (managed streaming for Kafka): Apache Kafka
 
+<br>
+
 ### Application integration
 - AWS Step Functions: state machine of Lambda functions
 - Amazon MQ: message broker for ActiveMQ
 - Amazon SQS (simple queue service): put in queue and wait for pull
 - Amazon SNS (simple notification service): push notification
 - Amazon SWF (simple workflow): task oriented flow
+
+<br>
 
 ### Cost management
 - AWS Cost Explorer: predict cost
@@ -76,11 +90,15 @@ tags:
 - AWS TCO (total cost of ownership): cost for migrating to cloud
 - AWS Simple Monthly Calculator: predict cost without account
 
+<br>
+
 ### Business applications
 - Alexa for Business: book meeting rooms etc
 - Amazon WorkDocs: Google Doc
 - Amazon WorkMail: Gmail with calendar
 - Amazon Chime: video conferencing
+
+<br>
 
 ### Compute
 - Amazon EC2 (elastic compute cloud): VM
@@ -101,9 +119,13 @@ tags:
 - AWS Outposts: hybrid API
 - VMware Cloud on AWS: vSphere on AWS
 
+<br>
+
 ### Customer engagement
 - Amazon Connect: customer support centre
 - Amazon SES (simple email service): send professional email
+
+<br>
 
 ### Database
 - Amazon Aurora: serverless MySQL and PostgreSQL, auto scaling
@@ -115,9 +137,13 @@ tags:
 - Amazon Timestream: serverless time series DB (usually for IoT)
 - Amazon DocumentDB: serverless document DB with MongoDB
 
+<br>
+
 ### Desktop and app streaming
 - Amazon WorkSpaces: VDI
 - Amazon AppStream: desktop application delivery
+
+<br>
 
 ### Developer
 - AWS CodeCommit: GitHub, version control
@@ -128,6 +154,8 @@ tags:
 - Amazon Corretto: OpenJDK (Java development kit)
 - AWS Cloud9: IDE
 - AWS X-Ray: analyse and debug applications
+
+<br>
 
 ### Machine learning
 - SageMaker: serverless all in one ML for newbie
@@ -145,6 +173,8 @@ tags:
 - AWS DeepLens: pre trained deep learning models
 - AWS DeepRacer: race car for reinforcement learning
 - AWS Inferentia: ML inference chip
+
+<br>
 
 ### Management and governance
 - Amazon CloudWatch: usage and alarms
@@ -168,6 +198,8 @@ tags:
 - AWS License Manager: manage licenses
 - AWS Well-Architected Tool: review workloads
 
+<br>
+
 ### Migration and transfer
 - AWS Migration Hub: track migration progress
 - AWS Application Discovery Service: plan migration projects
@@ -179,12 +211,16 @@ tags:
 - AWS DataSync: data transfer between on-prem and S3 and EFS
 - AWS Transfer for SFTP: S3 through SFTP
 
+<br>
+
 ### Mobile services
 - AWS Amplify: mobile application backend
 - Amazon Cognito: application login
 - Amazon Pinpoint: campaign emails and notifications
 - AWS Device Farm: test on various devices
 - AWS AppSync: serverless application backend
+
+<br>
 
 ### Networking and content delivery
 - Amazon VPC (virtual private cloud): logically isolated section of AWS cloud
@@ -201,6 +237,8 @@ tags:
     - ALB (application): layer 7 (request level, HTTP)
     - NLB (network): layer 4 (connection level, IP)
     - CLB (classic): both levels (for old EC2-Classic)
+
+<br>
 
 ### Security
 - AWS Security Hub: alerts and compliance
@@ -221,6 +259,8 @@ tags:
 - AWS SSO (single sign-on)
 - AWS WAF
 
+<br>
+
 ### Storage
 - Amazon S3 (simple storage service): object storage, not file system, 99.999999999% durability
 - Amazon EBS (elastic block store): persistent instance storage
@@ -229,6 +269,8 @@ tags:
 - Amazon FSx for Windows File Server: serverless Windows file system
 - Amazon S3 Glacier: data archiving, slow retrieval
 - AWS Storage Gateway: hybrid storage
+
+<br>
 
 ### Others
 - Amazon Sumerian: VR, AR, 3D applications
@@ -242,12 +284,16 @@ tags:
 - AWS RoboMaker: manage robotics applications
 - AWS Ground Station: serverless satellite operations
 
+<br>
+
 ## Study resources
 - AWS official training: <https://www.aws.training/Details/eLearning?id=60697>
 - AWS overview whitepaper: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf>
 - Cloud practitioner full course: <https://www.youtube.com/watch?v=3hLmDS179YE>
 - AWS services overview: <https://www.youtube.com/watch?v=TkT4iFRkaZk>
 - Exam dump: <https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner>
+
+<br>
 
 ## Exam
 - Study time: 12 hours

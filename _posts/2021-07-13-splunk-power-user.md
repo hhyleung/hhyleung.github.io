@@ -26,6 +26,8 @@ tags:
 - Splunk Cloud is Splunk Enterprise as a scalable service
 - Premium enhanced solutions: user behaviour analytics, IT service intelligence, enterprise security
 
+<br>
+
 ## Splunk components
 - Indexer: process and index data, includes license meter
 - Search head: search indexed data
@@ -37,11 +39,15 @@ tags:
     - Index cluster: traditional vs non-replicating
 - License master
 
+<br>
+
 ## Syntax colouring
 - <span style="color:#F78B21">Orange</span>: booleans `OR` and command modifiers `by`
 - <span style="color:#1F5CFF">Blue</span>: commands `stats`
 - <span style="color:#5CA301">Green</span>: command arguments `span`
 - <span style="color:#D100D3">Purple</span>: functions `sum`
+
+<br>
 
 # Commands
 ### `top` and `rare`
@@ -59,6 +65,8 @@ tags:
     - user `by` game: top users for each game
     - game `by` user: top games for each user
 
+<br>
+
 ### `stats`
 - `count`: number of events
     - `as`: rename column
@@ -70,6 +78,8 @@ tags:
 - `list(field)`: all values of field
 - `values(field)`: unique values of field
 
+<br>
+
 ### `transaction`
 - Events related by one or more fields
 - Limits to 1000 events by default
@@ -78,6 +88,8 @@ tags:
 - All events must be related by one or more fields
 - `maxspan`: max total time between earliest and latest events
 - `maxpause`: max time between events in a transaction
+
+<br>
 
 ### `chart` and `timechart`
 - Bubble chart: visualise 3 dimensional series, size of the bubble is the third dimension
@@ -90,6 +102,8 @@ tags:
 	- `useother=f`: hide OTHER series
 	- `usenull=f`: hide NULL series
 - `limit=0`: unlimited series
+
+<br>
 
 ### Others
 - `dedup` remove duplicates
@@ -106,6 +120,8 @@ tags:
 - `stats` fast and more efficient than `transaction`, especially in larger environments
 - `datamodel` returns all fields, `from` returns specified fields only
 
+<br>
+
 ## Macro
 - Configured in Advanced Search
 - `` `<macroname>` `` to call macro
@@ -114,12 +130,16 @@ tags:
 - Argument name: `<argument>`
 - Validation: `isnum($<argument>$)` validates argument to be a number
 
+<br>
+
 ## Field Extractor (FX)
 - Delimiters: tabs, pipes, commas, spaces
 - Auto identification: Event Actions > Extract Fields
 - Require option: include events with the required string only
 - Extracted fields persist as knowledge objects
 - Field extraction cannot be edited in UI after manually editing a regex
+
+<br>
 
 ## Pivot and data model
 - Data models provide the datasets for pivots
@@ -128,12 +148,16 @@ tags:
 - `datamodel <datamodel> <dataset> <search mode>`
 - Root event dataset: constraints + fields
 
+<br>
+
 ## CIM (Common Information Model)
 - Methodology to normalise data
 - Includes pre-configured data models and automatic data model acceleration
 - Acceleration is turned off by default
 - Uses field extractions, field aliases, event types, tags, lookups
 - Examples: alerts, authentication, databases, email
+
+<br>
 
 ## Search mode
 - Fast: performance over completeness
@@ -146,6 +170,8 @@ tags:
 	- Non-transforming: events (all fields) and pattern
 	- Transforming: events and patterns and statistics or visualisations
 
+<br>
+
 ## Job inspector
 - Header: time to run and no. of events scanned
 - Execution costs: cost to retrieve results
@@ -154,10 +180,14 @@ tags:
 	- `command.search.rawdata`: time to read events from the rawdata files
 - Search job properties: performance = `scanCount` / `time`
 
+<br>
+
 ## Study resources
 - Splunk Fundamentals 1: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html>
 - Splunk Fundamentals 2: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-2.html>
 - Exam dump: <https://www.examtopics.com/exams/splunk/splk-1002/>
+
+<br>
 
 ## Exam
 - Study time: 8 hours
