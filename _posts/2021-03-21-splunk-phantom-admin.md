@@ -2,6 +2,8 @@
 title: "Splunk Phantom Admin"
 excerpt: "For SPLK 2003 Splunk Phantom Certified Admin"
 last_modified_at: 2021-03-21
+stickies: true
+stickies_path: "/assets/stickies/splunk-phantom-admin.png"
 toc: true
 toc_label: "Content"
 toc_sticky: true

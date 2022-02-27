@@ -2,6 +2,8 @@
 title: "AWS Cloud Practitioner"
 excerpt: "For CLF-C01 AWS Certified Cloud Practitioner"
 last_modified_at: 2021-02-16
+stickies: true
+stickies_path: "/assets/stickies/aws-cloud-practitioner.png"
 toc: true
 toc_label: "Content"
 toc_sticky: true

@@ -2,6 +2,8 @@
 title: "Splunk Power User"
 excerpt: "For SPLK 1002 Splunk Core Certified Power User"
 last_modified_at: 2021-07-13
+stickies: true
+stickies_path: "/assets/stickies/splunk-power-user.png"
 toc: true
 toc_label: "Content"
 toc_sticky: true

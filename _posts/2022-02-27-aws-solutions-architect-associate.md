@@ -2,6 +2,8 @@
 title: "AWS Solutions Architect - Associate"
 excerpt: "For SAA-C02 AWS Certified Solutions Architect - Associate"
 last_modified_at: 2021-02-27
+stickies: true
+stickies_path: "/assets/stickies/aws-solutions-architect-associate.png"
 toc: true
 toc_label: "Content"
 toc_sticky: true
