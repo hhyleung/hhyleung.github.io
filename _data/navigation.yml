@@ -2,6 +2,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Writeups"
+    url: /writeups
   - title: "Cheatsheets"
     url: /cheatsheets
   - title: "Readings"
