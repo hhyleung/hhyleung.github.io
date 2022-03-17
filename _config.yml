@@ -26,7 +26,7 @@ comments:
   provider: giscus
   giscus:
       repo_id: "MDEwOlJlcG9zaXRvcnkzMTg1NDY0MzA"
-      category_name: "Announcements"
+      category_name: "Comments"
       category_id: "DIC_kwDOEvyh_s4COJca"
       discussion_term: "pathname"
       reactions_enabled: "1"
@@ -109,7 +109,7 @@ defaults:
       author_profile: true
       read_time: false
       show_date: false
-      comments: false
+      comments: true
       share: false
       related: false
   # _pages
