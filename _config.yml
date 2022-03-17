@@ -17,11 +17,20 @@ title: Hannah's Archive
 title_separator: "|"
 description: >- # this means to ignore newlines until "baseurl:"
   Tech portfolio of Hannah Leung
-twitter_username: hannahhyleung
+twitter_username: hhyleung
 github_username: hhyleung
 minimal_mistakes_skin: contrast
 search: true
 repository: hhyleung/hhyleung.github.io
+comments:
+  provider: giscus
+  giscus:
+      repo_id: "MDEwOlJlcG9zaXRvcnkzMTg1NDY0MzA"
+      category_name: "Announcements"
+      category_id: "DIC_kwDOEvyh_s4COJca"
+      discussion_term: "pathname"
+      reactions_enabled: "1"
+      theme: "light"
 
 # Build settings
 markdown: kramdown
