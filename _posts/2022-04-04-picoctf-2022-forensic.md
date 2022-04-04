@@ -1,6 +1,6 @@
 ---
-title: "picoCTF 2022 - Web Exploitation"
-excerpt: "Writeup for the picoCTF 2022 - Web Exploitation category"
+title: "picoCTF 2022 - Forensic"
+excerpt: "Writeup for the picoCTF 2022 - Forensic category"
 last_modified_at: 2022-04-04
 stickies: true
 stickies_path: "/assets/stickies/picoctf.png"
@@ -13,7 +13,7 @@ tags:
   - CTF
 ---
 
-## Web Exploitation
+## Forensic
 ### Enhance!
 `100 points` `5214 solves`
 
