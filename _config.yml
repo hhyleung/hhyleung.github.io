@@ -23,14 +23,9 @@ minimal_mistakes_skin: contrast
 search: true
 repository: hhyleung/hhyleung.github.io
 comments:
-  provider: giscus
-  giscus:
-      repo_id: "MDEwOlJlcG9zaXRvcnkzMTg1NDY0MzA"
-      category_name: "Comments"
-      category_id: "DIC_kwDOEvyh_s4COJca"
-      discussion_term: "pathname"
-      reactions_enabled: "1"
-      theme: "light"
+  provider: disqus
+  disqus:
+    shortname: hhyleung
 
 # Build settings
 markdown: kramdown
