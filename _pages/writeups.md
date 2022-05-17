@@ -9,6 +9,7 @@ These are writeups mostly for CTFs and labs. They are not written in the most or
 <br>
 
 ## CTF
+- [VolgaCTF 2022 Qualifier]({{ site.url }}{{ site.baseurl }}/writeups/volgactf-2022/)
 - [TAMUctf 2022]({{ site.url }}{{ site.baseurl }}/writeups/tamuctf-2022/)
 - [OFPPT-CTF 2022]({{ site.url }}{{ site.baseurl }}/writeups/ofppt-ctf-2022/)
 - [VishwaCTF 2022]({{ site.url }}{{ site.baseurl }}/writeups/vishwactf-2022/)
