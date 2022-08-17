@@ -1,12 +1,10 @@
 # main links
 main:
   - title: "Posts"
-    url: /posts/
-  - title: "Writeups"
-    url: /writeups
+    url: /tags
   - title: "Cheatsheets"
     url: /cheatsheets
+  - title: "Writeups"
+    url: /writeups
   - title: "Photography"
     url: /photography
-  - title: "Demo"
-    url: https://hhyleung.github.io/demo
