@@ -7,9 +7,9 @@ permalink: /certified.html
 Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/users/hhyleung/badges)
 
 ## Blue Team
-- 02 Jan 2022 - BTL1 (Blue Team Level 1)
-- 06 May 2022 - EnCE (EnCase Certified Examiner)
 - 16 Aug 2022 - GCFE (GIAC Certified Forensic Examiner)
+- 06 May 2022 - EnCE (EnCase Certified Examiner)
+- 02 Jan 2022 - BTL1 (Blue Team Level 1)
 
 <br>
 
@@ -22,7 +22,7 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 <br>
 
-## Products
+## Vendor
 - 24 Jun 2022 - Cybereason Certified Threat Hunter
 - 10 Jun 2022 - Cybereason Certified Threat Analyst
 - 14 Sep 2021 - Splunk Enterprise Certified Architect
