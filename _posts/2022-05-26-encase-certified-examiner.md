@@ -1,6 +1,6 @@
 ---
-title: "EnCase Certified Examiner"
-excerpt: "Review for the EnCase Certified Examiner certificate"
+title: "EnCE - EnCase Certified Examiner"
+excerpt: "Review for the EnCase Certified Examiner (EnCE) certificate"
 last_modified_at: 2022-05-26
 stickies: true
 stickies_path: "/assets/stickies/encase-certified-examiner.png"

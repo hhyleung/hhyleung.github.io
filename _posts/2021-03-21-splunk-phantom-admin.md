@@ -1,6 +1,6 @@
 ---
 title: "Splunk Phantom Admin"
-excerpt: "For SPLK 2003 Splunk Phantom Certified Admin"
+excerpt: "Review for the SPLK 2003 Splunk Phantom Certified Admin certificate"
 last_modified_at: 2021-03-21
 stickies: true
 stickies_path: "/assets/stickies/splunk-phantom-admin.png"
@@ -8,12 +8,13 @@ toc: true
 toc_label: "Content"
 toc_sticky: true
 categories:
-  - Cheatsheets
+  - Certificates
 tags:
   - Splunk
 ---
 
-## Key areas
+## Review
+Apart from the actual playbook logic and data path, make sure to be familiar with the GUI and the integration with Splunk. Key area includes:
 - Connection with Splunk
 - Web console GUI
 - Data paths
@@ -30,10 +31,9 @@ tags:
 
 <br>
 
-## Exam
+## Stats
 - Study time: 5 half days of virtual training
 - Exam time: 28 minutes
 - Result: PASS
-- Note: apart from the actual playbook logic and data path, make sure to be familiar with the GUI and the integration with Splunk
 
 <br>

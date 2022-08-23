@@ -2,6 +2,8 @@
 main:
   - title: "Posts"
     url: /tags
+  - title: "Certificates"
+    url: /certificates
   - title: "Cheatsheets"
     url: /cheatsheets
   - title: "Writeups"

@@ -1,6 +1,6 @@
 ---
-title: "Blue Team Level 1"
-excerpt: "Review for the Blue Team Level 1 certificate"
+title: "BTL1 - Blue Team Level 1"
+excerpt: "Review for the Blue Team Level 1 (BTL1) certificate"
 last_modified_at: 2022-01-03
 stickies: true
 stickies_path: "/assets/stickies/blue-team-level-1.png"
