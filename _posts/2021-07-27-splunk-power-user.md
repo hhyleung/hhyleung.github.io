@@ -6,23 +6,23 @@ stickies: true
 stickies_path: "/assets/stickies/splunk-power-user.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - Splunk
 ---
 
-## Study resources
-- Splunk Fundamentals 1: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html>
-- Splunk Fundamentals 2: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-2.html>
-- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1002/>
-
-<br>
-
 ## Stats
 - Study time: 8 hours
 - Exam time: 16 minutes
 - Result: PASS
+
+<br>
+
+## Study resources
+- Splunk Fundamentals 1: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html>
+- Splunk Fundamentals 2: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-2.html>
+- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1002/>
 
 <br>

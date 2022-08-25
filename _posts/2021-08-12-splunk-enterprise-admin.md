@@ -6,23 +6,23 @@ stickies: true
 stickies_path: "/assets/stickies/splunk-enterprise-admin.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - Splunk
 ---
 
-## Study resources
-- Splunk Enterprise System Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-system-administration.html>
-- Splunk Enterprise Data Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-data-administration.html>
-- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1003>
-
-<br>
-
 ## Stats
 - Study time: 5 half days of virtual training
 - Exam time: 21 minutes
 - Result: PASS
+
+<br>
+
+## Study resources
+- Splunk Enterprise System Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-system-administration.html>
+- Splunk Enterprise Data Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-data-administration.html>
+- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1003>
 
 <br>

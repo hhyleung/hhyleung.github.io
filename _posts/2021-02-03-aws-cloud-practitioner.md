@@ -6,15 +6,16 @@ stickies: true
 stickies_path: "/assets/stickies/aws-cloud-practitioner.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - AWS
 ---
-
-## Review
-The exam mainly tests the understanding of different AWS products, make sure to go through all of the products and solutions then it should be alright. The basic cloud concepts are rather just common sense, at least for those with some IT background. A lot of questions were shown in the exam dump.
+## Stats
+- Study time: 12 hours
+- Exam time: 27 minutes
+- Result: 881 / 1000 PASS
 
 <br>
 
@@ -27,9 +28,7 @@ The exam mainly tests the understanding of different AWS products, make sure to 
 
 <br>
 
-## Stats
-- Study time: 12 hours
-- Exam time: 27 minutes
-- Result: 881 / 1000 PASS
+## Review
+The exam mainly tests the understanding of different AWS products, make sure to go through all of the products and solutions then it should be alright. The basic cloud concepts are rather just common sense, at least for those with some IT background. A lot of questions were shown in the exam dump.
 
 <br>

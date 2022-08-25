@@ -6,12 +6,26 @@ stickies: true
 stickies_path: "/assets/stickies/encase-certified-examiner.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - Blue Team
 ---
+
+## Stats
+- Study time: 50 hours
+- Exam time: 100 minutes (Phase I) + 75 hours (Phase II)
+- Result:  PASS
+
+<br>
+
+## Study resources
+- The Official EnCE Study Guide: [https://www.wiley.com/en-us/EnCase+Computer+Forensics+The+Official+EnCE%3A+EnCase+Certified+Examiner+Study+Guide%2C+3rd+Edition-p-9781118058985](https://www.wiley.com/en-us/EnCase+Computer+Forensics+The+Official+EnCE%3A+EnCase+Certified+Examiner+Study+Guide%2C+3rd+Edition-p-9781118058985)
+- EnCase Forensic 21.4 User Guide
+- EnCase v8 basics: [https://youtube.com/playlist?list=PLMDkMkv1VKGSsqj4GV9uLe0XvNeynJTOn](https://youtube.com/playlist?list=PLMDkMkv1VKGSsqj4GV9uLe0XvNeynJTOn)
+
+<br>
 
 ## Review
 The employer has asked me to get the certificate to grasp the fundamentals of computer forensics. Given that I have brief experience in the field and to reduce the cost, I did not take the official training provided by OpenText. As recommended by my colleagues, I read [The Official EnCE Study Guide](https://www.wiley.com/en-us/EnCase+Computer+Forensics+The+Official+EnCE%3A+EnCase+Certified+Examiner+Study+Guide%2C+3rd+Edition-p-9781118058985), which should cover sufficient information to prepare for the certificate.
@@ -29,19 +43,5 @@ Also, I was stuck on two of the questions that I just kept exploring around with
 Since 16 questions are sufficient to have the report marked, I considered submitting the report directly as I have already spent hours on that two questions previously, and I literally ran out of ideas. I’m glad I did not. It was like a miracle when I finally found the answers to the last two questions. I was deep down in a rabbit hole and somehow refused to let go of it. Anyhow, got the last part of the report written quickly and submitted just in time (half a day before the deadline just in case of technical issues).
 
 It took me about 75 hours to complete Phase II, of which a third was contributed by that two questions, and a third was wasted by redoing the investigation. This is probably the most inefficient certificate experience I have had, but I guess I don’t always have to be efficient all the time (excuses, I know). On the bright side, I think I am getting better at reading books and I have learnt my lesson on rabbit holes. Most importantly, got the “Congratulations!” email about one month after I submitted the report.
-
-<br>
-
-## Study resources
-- The Official EnCE Study Guide: [https://www.wiley.com/en-us/EnCase+Computer+Forensics+The+Official+EnCE%3A+EnCase+Certified+Examiner+Study+Guide%2C+3rd+Edition-p-9781118058985](https://www.wiley.com/en-us/EnCase+Computer+Forensics+The+Official+EnCE%3A+EnCase+Certified+Examiner+Study+Guide%2C+3rd+Edition-p-9781118058985)
-- EnCase Forensic 21.4 User Guide
-- EnCase v8 basics: [https://youtube.com/playlist?list=PLMDkMkv1VKGSsqj4GV9uLe0XvNeynJTOn](https://youtube.com/playlist?list=PLMDkMkv1VKGSsqj4GV9uLe0XvNeynJTOn)
-
-<br>
-
-## Stats
-- Study time: 50 hours
-- Exam time: 100 minutes (Phase I) + 75 hours (Phase II)
-- Result:  PASS
 
 <br>

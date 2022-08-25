@@ -4,12 +4,12 @@ layout: single
 permalink: /certificates.html
 ---
 
-A list of technical certificates that I have obtained can be found on the [Certified Certificates]({{ site.url }}{{ site.baseurl }}/certified.html) page. These are mostly short reviews on those certificates with links to study resourses, and the stats part is just for my own record on how long it took and how I did.
+A list of technical certificates that I have obtained can be found on the [Certified Certificates]({{ site.url }}{{ site.baseurl }}/certified.html) page. These are mostly short reviews on those certificates with links to study resourses, and the stats part is just for my own record on how long it took me to prepare and how I did.
 
 ## Blue Team
-- [BTL1 (Blue Team Level 1)]({{ site.url }}{{ site.baseurl }}/certificates/blue-team-level-1/)
-- [EnCE (EnCase Certified Examiner)]({{ site.url }}{{ site.baseurl }}/certificates/encase-certified-examiner/)
-- [GCFE (GIAC Certified Forensic Examiner)]({{ site.url }}{{ site.baseurl }}/certificates/giac-forensic-examiner/)
+- [BTL1 - Blue Team Level 1]({{ site.url }}{{ site.baseurl }}/certificates/blue-team-level-1/)
+- [EnCE - EnCase Certified Examiner]({{ site.url }}{{ site.baseurl }}/certificates/encase-certified-examiner/)
+- [GCFE - GIAC Certified Forensic Examiner]({{ site.url }}{{ site.baseurl }}/certificates/giac-forensic-examiner/)
 
 <br>
 

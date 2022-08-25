@@ -6,15 +6,17 @@ stickies: true
 stickies_path: "/assets/stickies/aws-security-specialty.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - AWS
 ---
 
-## Review
-The exam tested heavily on KMS, IAM, and VPC. Should focus on the details of these areas.
+# Stats
+- Study time: 25 hours
+- Exam time: 91 minutes
+- Result: 866 / 1000 PASS
 
 <br>
 
@@ -30,9 +32,7 @@ The exam tested heavily on KMS, IAM, and VPC. Should focus on the details of the
 
 <br>
 
-# Stats
-- Study time: 25 hours
-- Exam time: 91 minutes
-- Result: 866 / 1000 PASS
+## Review
+The exam tested heavily on KMS, IAM, and VPC. Should focus on the details of these areas.
 
 <br>

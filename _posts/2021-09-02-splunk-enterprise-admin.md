@@ -163,17 +163,3 @@ homePath.maxDataSizeMB = <MB>
 - Random admin password: `splunk start --accept-license --answer-yes --no-prompt --gen-and-print-passwd`
 
 <br>
-
-## Study resources
-- Splunk Enterprise System Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-system-administration.html>
-- Splunk Enterprise Data Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-data-administration.html>
-- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1003>
-
-<br>
-
-## Exam
-- Study time: 5 half days of virtual training
-- Exam time: 21 minutes
-- Result: PASS
-
-<br>

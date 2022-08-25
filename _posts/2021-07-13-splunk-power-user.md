@@ -183,17 +183,3 @@ tags:
 - Search job properties: performance = `scanCount` / `time`
 
 <br>
-
-## Study resources
-- Splunk Fundamentals 1: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html>
-- Splunk Fundamentals 2: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-2.html>
-- Exam dump: <https://www.examtopics.com/exams/splunk/splk-1002/>
-
-<br>
-
-## Exam
-- Study time: 8 hours
-- Exam time: 16 minutes
-- Result: PASS
-
-<br>

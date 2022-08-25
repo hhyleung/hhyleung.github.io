@@ -6,15 +6,17 @@ stickies: true
 stickies_path: "/assets/stickies/aws-solutions-architect-associate.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - AWS
 ---
 
-## Review
-Make sure to clearly understand VPC. The questions are relatively long and it is easy to lose track of the main question. Should take note of the actual question at the end (choose the best option based on the specified criteria).
+## Stats
+- Study time: 20 hours
+- Exam time: 82 minutes
+- Result: 743 / 1000 PASS
 
 <br>
 
@@ -25,9 +27,7 @@ Make sure to clearly understand VPC. The questions are relatively long and it is
 
 <br>
 
-## Stats
-- Study time: 20 hours
-- Exam time: 82 minutes
-- Result: 743 / 1000 PASS
+## Review
+Make sure to clearly understand VPC. The questions are relatively long and it is easy to lose track of the main question. Should take note of the actual question at the end (choose the best option based on the specified criteria).
 
 <br>

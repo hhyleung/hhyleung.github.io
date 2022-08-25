@@ -6,15 +6,17 @@ stickies: true
 stickies_path: "/assets/stickies/azure-fundamentals.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - Azure
 ---
 
-## Review
-Got the free voucher from HK Cloud Challenge. Be sure to not left out the details of the GUI and compliance stuff.
+## Stats
+- Study time: 8 hours
+- Exam time: 12 minutes
+- Result: 895 / 1000 PASS
 
 <br>
 
@@ -25,9 +27,7 @@ Got the free voucher from HK Cloud Challenge. Be sure to not left out the detail
 
 <br>
 
-## Stats
-- Study time: 8 hours
-- Exam time: 12 minutes
-- Result: 895 / 1000 PASS
+## Review
+Got the free voucher from HK Cloud Challenge. Be sure to not left out the details of the GUI and compliance stuff.
 
 <br>

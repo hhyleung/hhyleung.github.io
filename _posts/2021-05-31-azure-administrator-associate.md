@@ -6,15 +6,17 @@ stickies: true
 stickies_path: "/assets/stickies/azure-administrator-associate.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - Azure
 ---
 
-## Review
-Got the free voucher from global Cloud Challenge. Case studies are long, should read the questions first then head back to the scenario for information.
+## Stats
+- Study time: 6 hours
+- Exam time: 64 minutes
+- Result: 737 / 1000 PASS
 
 <br>
 
@@ -26,9 +28,7 @@ Got the free voucher from global Cloud Challenge. Case studies are long, should 
 
 <br>
 
-## Stats
-- Study time: 6 hours
-- Exam time: 64 minutes
-- Result: 737 / 1000 PASS
+## Review
+Got the free voucher from global Cloud Challenge. Case studies are long, should read the questions first then head back to the scenario for information.
 
 <br>

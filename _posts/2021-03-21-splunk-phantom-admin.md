@@ -6,20 +6,17 @@ stickies: true
 stickies_path: "/assets/stickies/splunk-phantom-admin.png"
 toc: true
 toc_label: "Content"
-toc_sticky: true
+toc_sticky: false
 categories:
   - Certificates
 tags:
   - Splunk
 ---
 
-## Review
-Apart from the actual playbook logic and data path, make sure to be familiar with the GUI and the integration with Splunk. Key area includes:
-- Connection with Splunk
-- Web console GUI
-- Data paths
-- REST API endpoints and filters
-- Filters vs decisions
+## Stats
+- Study time: 5 half days of virtual training
+- Exam time: 28 minutes
+- Result: PASS
 
 <br>
 
@@ -31,9 +28,12 @@ Apart from the actual playbook logic and data path, make sure to be familiar wit
 
 <br>
 
-## Stats
-- Study time: 5 half days of virtual training
-- Exam time: 28 minutes
-- Result: PASS
+## Review
+Apart from the actual playbook logic and data path, make sure to be familiar with the GUI and the integration with Splunk. Key area includes:
+- Connection with Splunk
+- Web console GUI
+- Data paths
+- REST API endpoints and filters
+- Filters vs decisions
 
 <br>

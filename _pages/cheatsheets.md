@@ -16,6 +16,5 @@ These are last minute cheatsheets I made when I was revising for certification e
 ## Splunk
 - [Splunk Power User]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-power-user/)
 - [Splunk Enterprise Admin]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-enterprise-admin/)
-- [Splunk Phantom Admin]({{ site.url }}{{ site.baseurl }}/cheatsheets/splunk-phantom-admin/)
 
 <br>

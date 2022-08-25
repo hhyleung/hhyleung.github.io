@@ -1,6 +1,6 @@
 ---
 title: "AWS Cloud Practitioner"
-excerpt: "For CLF-C01 AWS Certified Cloud Practitioner"
+excerpt: "Cheatsheet for the CLF-C01 AWS Certified Cloud Practitioner"
 last_modified_at: 2021-02-16
 stickies: true
 stickies_path: "/assets/stickies/aws-cloud-practitioner.png"
@@ -11,7 +11,6 @@ categories:
   - Cheatsheets
 tags:
   - AWS
-  - Cloud
 ---
 
 ## Key points
@@ -285,22 +284,5 @@ tags:
 - AWS Elemental MediaConvert: new video transcoder
 - AWS RoboMaker: manage robotics applications
 - AWS Ground Station: serverless satellite operations
-
-<br>
-
-## Study resources
-- AWS official training: <https://www.aws.training/Details/eLearning?id=60697>
-- AWS overview whitepaper: <https://docs.aws.amazon.com/whitepapers/latest/aws-overview/aws-overview.pdf>
-- Cloud practitioner full course: <https://www.youtube.com/watch?v=3hLmDS179YE>
-- AWS services overview: <https://www.youtube.com/watch?v=TkT4iFRkaZk>
-- Exam dump: <https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner>
-
-<br>
-
-## Exam
-- Study time: 12 hours
-- Exam time: 27 minutes
-- Result: 881 / 1000 PASS
-- Note: mainly testing on the understanding of different AWS products, a lot of questions were shown in the exam dump
 
 <br>
