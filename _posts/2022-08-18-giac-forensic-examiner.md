@@ -72,7 +72,7 @@ In addition to the index, I duplicated the Windows event log ID entries and move
 
 ![giac-forensic-examiner-2.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/giac-forensic-examiner-2.jpg)
 
-The last thing I printed out was a small timesheet. The time indicates the remaining time I have after finishing each question. I divided the questions into 5 columns, so I would know how far I am in the exam (eg question 46 means 40% done with the exam). I also coloured the cell for every 10 questions to locate the question number quickly. This timesheet was extremely useful and reassuring. I referred to it many times during the exam to ensure I was on track (or actually, ahead of time) without calculating every time. You can find the PDF version of this timesheet [here]({{ site.url }}{{ site.baseurl }}/assets/posts/giac-forensic-examiner-timesheet.pdf).
+The last thing I printed out was a small timesheet. The time indicates the remaining time I have after finishing each question. I divided the questions into 5 columns, so I would know how far I am in the exam (eg question 46 means 40% done with the exam). I also coloured the cell for every 10 questions to locate the question number quickly. This timesheet was extremely useful and reassuring. I referred to it many times during the exam to ensure I was on track (or actually, ahead of time) without calculating every time. You can find the PDF version of this timesheet [here]({{ site.url }}{{ site.baseurl }}/assets/pdfs/giac-forensic-examiner-timesheet.pdf).
 
 ![giac-forensic-examiner-3.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/giac-forensic-examiner-3.jpg)
 
