@@ -6,7 +6,7 @@ stickies: true
 stickies_path: "/assets/stickies/aws-solutions-architect-associate.png"
 toc: true
 toc_label: "Content"
-toc_sticky: false
+toc_sticky: true
 categories:
   - Certificates
 tags:
