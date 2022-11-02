@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-test
+Or if desired, check out the [Posts by Year]({{ site url }}{{ site.baseurl }}/posts/) view instead.
