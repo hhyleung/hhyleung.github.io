@@ -36,8 +36,8 @@ landscape:
     title: "Hunstanton Cliffs, Norfolk, UK"
 ---
 
-Check out [@excursionist.scrapbook](https://www.instagram.com/excursionist.scrapbook) for more
+Check out [@excursionist.scrapbook](https://www.instagram.com/excursionist.scrapbook) for more.
 
-{% include gallery id="highlight" class="full" layout="half" %}
-{% include gallery id="wildlife" class="full" %}
-{% include gallery id="landscape" class="full" layout="half" %}
+{% include gallery id="highlight" layout="half" %}
+{% include gallery id="wildlife" %}
+{% include gallery id="landscape" layout="half" %}
