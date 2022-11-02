@@ -526,9 +526,7 @@ The followed message from the previous question was requesting for 10 bitcoins.
 
 The images were found at the `Media > Images` page, under the same parent directory path `Alex的iPhone/mobile/Media`. It was found that the two images have different MD5 hash values, file sizes, and pixel resolution. The image `5005.JPG` was stored under the directories `Thumbnails` and `IMG_0056.HEIC`, with a much smaller file size and lower resolution than the image `IMG_0056.HEIC`, suggesting the former to be the thumbnail of the latter.
 
-![meiya-cup-2021-ipxr-image-1.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-ipxr-image-1.jpg)
-
-![meiya-cup-2021-ipxr-image-2.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-ipxr-image-2.jpg)
+![meiya-cup-2021-ipxr-image.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-ipxr-image.jpg)
 
 答案：`B,C`
 
