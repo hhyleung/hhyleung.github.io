@@ -2,6 +2,7 @@
 title: "Certified Certificates"
 layout: archive
 permalink: /certified.html
+classes: wide
 ---
 
 Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/users/hhyleung/badges)

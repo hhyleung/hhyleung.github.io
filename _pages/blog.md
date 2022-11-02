@@ -2,6 +2,7 @@
 title: "Blog"
 layout: archive
 permalink: /blog.html
+classes: wide
 ---
 
 # Blue Team

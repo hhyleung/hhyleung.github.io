@@ -2,6 +2,7 @@
 title: "Writeups"
 layout: archive
 permalink: /writeups.html
+classes: wide
 ---
 
 These are writeups mostly for CTFs and labs. They are not written in the most organised way as they were written on the go to record the process only.
