@@ -6,4 +6,4 @@ author_profile: true
 classes: wide
 ---
 
-Or if desired, check out the [Posts by Year]({{ site url }}{{ site.baseurl }}/posts) view instead.
+Or if desired, check out the [Posts by Year](https://hhyleung.github.io/posts) view instead.
