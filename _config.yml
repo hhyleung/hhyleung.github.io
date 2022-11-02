@@ -112,7 +112,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: default
+      layout: archive
       author_profile: true
 
 tag_archive:

@@ -1,6 +1,6 @@
 ---
 title: "Photography"
-layout: single
+layout: archive
 permalink: /photography.html
 highlight:
   - url: /assets/images/edinburghSunrise.jpg

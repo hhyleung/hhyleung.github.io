@@ -1,6 +1,6 @@
 ---
 title: "Certified Certificates"
-layout: single
+layout: archive
 permalink: /certified.html
 ---
 

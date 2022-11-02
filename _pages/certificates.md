@@ -1,6 +1,6 @@
 ---
 title: "Certificates"
-layout: single
+layout: archive
 permalink: /certificates.html
 ---
 

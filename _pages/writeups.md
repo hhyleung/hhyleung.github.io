@@ -1,6 +1,6 @@
 ---
 title: "Writeups"
-layout: single
+layout: archive
 permalink: /writeups.html
 ---
 
@@ -19,7 +19,8 @@ These are writeups mostly for CTFs and labs. They are not written in the most or
 <br>
 
 ## Meiya Cup 美亞杯
-- [美亞杯 2021 - 個人賽]({{ site.url }}{{ site.baseurl }}/writeups/meiya-cup-2022-individual/)
+- [美亞杯 2021 - 個人賽]({{ site.url }}{{ site.baseurl }}/writeups/meiya-cup-2021-individual/)
+- [美亞杯 2021 - 團體賽]({{ site.url }}{{ site.baseurl }}/writeups/meiya-cup-2021-group/)
 
 <br>
 
@@ -29,5 +30,6 @@ These are writeups mostly for CTFs and labs. They are not written in the most or
 - [picoCTF 2022 - Forensic]({{ site.url }}{{ site.baseurl }}/writeups/picoctf-2022-forensic/)
 - [picoCTF 2022 - Reverse Engineering]({{ site.url }}{{ site.baseurl }}/writeups/picoctf-2022-reverse/)
 - [picoCTF 2022 - Web Exploitation]({{ site.url }}{{ site.baseurl }}/writeups/picoctf-2022-web/)
+- [picoGym]({{ site.url }}{{ site.baseurl }}/writeups/picogym/)
 
 <br>
