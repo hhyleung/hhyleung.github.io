@@ -34,7 +34,7 @@ tags:
 <br>
 
 ## 题目
-> 1. [单选题] 工地主管电话的微信账号是什么? (1分)
+> 1) [单选题] 工地主管电话的微信账号是什么? (1分)
 > A. Kasier751111
 > B. Kasierlee751111
 > C. Kasierlee
@@ -50,7 +50,7 @@ Searched for the keywords "wechat" and "weixin" but both returned no results. It
 
 <br>
 
-> 2. [填空题] 工地主管的隔空投送装置编号是什么? (请以英文全大写及阿拉伯数字回答) (1分)
+> 2) [填空题] 工地主管的隔空投送装置编号是什么? (请以英文全大写及阿拉伯数字回答) (1分)
 
 The AirDrop ID is right at the top of the `Device Info` section at the `Extraction Summary` page.
 
@@ -60,7 +60,7 @@ The AirDrop ID is right at the top of the `Device Info` section at the `Extracti
 
 <br>
 
-> 3. [单选题] 工地主管电话的哪一个应用程序有关于于经纬度24.490474, 118.110220的纪录? (2分)
+> 3) [单选题] 工地主管电话的哪一个应用程序有关于于经纬度24.490474, 118.110220的纪录? (2分)
 > A. 照片
 > B. WhatsApp
 > C. Apple Maps
@@ -74,7 +74,7 @@ Searched for the keyword "24.490474" and the result matched the location, showin
 
 <br>
 
-> 4. [多选题] 工地主管的手提电话中下列哪些数据正确? (1分)
+> 4) [多选题] 工地主管的手提电话中下列哪些数据正确? (1分)
 > A. iOS版本为12.5.4
 > B. IMEI为454120637213361
 > C. Apple ID为kaiserlee3660@gmail.com
@@ -90,7 +90,7 @@ Searched for the keyword "dropbox" and no results were found, it is believed tha
 
 <br>
 
-> 5. [填空题] 工地主管的电话最常使用的浏览器是什么? (请以英文全大写回答) (1分)
+> 5) [填空题] 工地主管的电话最常使用的浏览器是什么? (请以英文全大写回答) (1分)
 
 Looking at the `Search & Web > Web History` part under `Analyed Data`, there are only entries for the browser Safari.
 
@@ -100,7 +100,7 @@ Looking at the `Search & Web > Web History` part under `Analyed Data`, there are
 
 <br>
 
-> 6. [单选题] 工地主管的电话连接过哪一个WiFi? (1分)
+> 6) [单选题] 工地主管的电话连接过哪一个WiFi? (1分)
 > A. Kaiser Lee
 > B. Kaiser
 > C. Free Wifi
@@ -114,7 +114,7 @@ The `Devices & Networks > Wireless Networks` page revealed 2 previously connecte
 
 <br>
 
-> 7. [多选题] 工地主管与Alex Chan的Whatsapp对话中，曾提及以下哪个TeamViewer的用户号码? (3分)
+> 7) [多选题] 工地主管与Alex Chan的Whatsapp对话中，曾提及以下哪个TeamViewer的用户号码? (3分)
 > A. 435334881
 > B. 453851521
 > C. 435475200
@@ -131,7 +131,7 @@ The `Messages > Chats > WhatsApp` page revealed the conversation between the man
 
 <br>
 
-> 8. [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)
+> 8) [填空题] 工地主管的WhatsApp中有多少个黑名单的记录? (请以阿拉伯数字回答) (2分)
 
 From the source file of the chat history viewed earlier, the location of the WhatsApp database was found to be at `「Kaiser」的 iPhone/mobile/Containers/Shared/AppGroup/group.net.whatsapp.WhatsApp.shared/ChatStorage.sqlite`.
 
@@ -145,7 +145,7 @@ Navigating to the database revealed the table `ZWABLACKLISTITEM`, which should c
 
 <br>
 
-> 9. [多选题] 以下哪个蓝牙装置的Uuid曾连接过工地主管的手机? (2分)
+> 9) [多选题] 以下哪个蓝牙装置的Uuid曾连接过工地主管的手机? (2分)
 > A. 7F1FE70D-2B15-C245-853D-4196F13CC446
 > B. 1B057C1D-83D3-99A6-D2B1-EC54846C7CEE
 > C. 134ACD1-83D3-99A6-D2B1-EC54846C7CEE
@@ -163,7 +163,7 @@ Navigating to the database revealed the two UUIDs of the two previously connecte
 
 <br>
 
-> 10. [填空题] 工地主管计算机的E盘的Bitlocker修复密钥标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
+> 10) [填空题] 工地主管计算机的E盘的Bitlocker修复密钥标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 
 Meiya Pico's `ForensicsMaster` was used to analyse the image file `VTM-computer.e01`. After processing the image file, right clicked on the partition E to bring up the `BitLocker Decryption` prompt. The `Recovery Key` option revealed the key GUID as `36EBC180-95F7-41FF-BE5B-4E56E7AF48B1`.
 
@@ -173,7 +173,7 @@ Meiya Pico's `ForensicsMaster` was used to analyse the image file `VTM-computer.
 
 <br>
 
-> 11. [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
+> 11) [填空题] 工地主管计算机內的FTP程序FileZilla的用户名称是甚么? (请以英文全大写及阿拉伯数字回答) (3分)
 
 The `Download Tools Analysis > FileZilla > Client > Quick Connect Record` page revealed the user name as `alex`.
 
@@ -183,7 +183,7 @@ The `Download Tools Analysis > FileZilla > Client > Quick Connect Record` page r
 
 <br>
 
-> 12. [填空题] 工地主管的Team Viewer ID是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
+> 12) [填空题] 工地主管的Team Viewer ID是甚么? (请以英文全大写及阿拉伯数字回答) (2分)
 
 The TeamViewer ID was found earlier from the WhatsApp chat history as `435 270 306`.
 
@@ -191,7 +191,7 @@ The TeamViewer ID was found earlier from the WhatsApp chat history as `435 270 3
 
 <br>
 
-> 13. [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)
+> 13) [填空题] 工地主管的Team Viewer与哪一个ID连接? (请以英文全大写及阿拉伯数字回答) (3分)
 
 The `Others > TeamViewer > Connected By Other Machines Record` page revealed the TeamViewer ID `420190768` was previously connected to the device.
 
@@ -201,7 +201,7 @@ The `Others > TeamViewer > Connected By Other Machines Record` page revealed the
 
 <br>
 
-> 14. [多选题] 工地主管曾用计算机浏览器作搜寻，以下哪一个关键词他曾经搜寻? (3分)
+> 14) [多选题] 工地主管曾用计算机浏览器作搜寻，以下哪一个关键词他曾经搜寻? (3分)
 > A. tiktok
 > B. web whatsapp
 > C. facebook
@@ -217,7 +217,7 @@ The `Web History > Google Chrome > IDS_BROWSER_SEARCH`  page revealed the web se
 
 <br>
 
-> 15. [填空题] 工地主管计算机的Windows系统的产品标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
+> 15) [填空题] 工地主管计算机的Windows系统的产品标识符是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 
 The `System Artifacts > System Info > System Info` revealed the Windows Product ID to be `00331-10000-00001-AA962`.
 
@@ -227,7 +227,7 @@ The `System Artifacts > System Info > System Info` revealed the Windows Product 
 
 <br>
 
-> 16. [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
+> 16) [填空题] 工地主管曾用计算机使用WhatsApp，他曾和以下哪个电话号码沟通? (请以阿拉伯数字回答) (2分)
 
 Searched for the keyword "whatsapp" and revealed the web search history and proved the usage of web WhatsApp on the computer. However, the web history did not reveal any phone numbers.
 
@@ -241,7 +241,7 @@ Referring back to the iPhone 6 analysed earlier, after scrolling through all of 
 
 <br>
 
-> 17. [多选题] 工地主管计算机的用户名称是甚么? 其用户标识符是甚么? (2分)
+> 17) [多选题] 工地主管计算机的用户名称是甚么? 其用户标识符是甚么? (2分)
 > A. 用户名称：PC1
 > B. 用户名称：PC2
 > C. 用户名称：PC3
@@ -257,7 +257,7 @@ The `System Artifacts > System Info > User Info` page revealed the user account 
 
 <br>
 
-> 18. [单选题] 工地主管计算机的预设浏览器是甚么? (2分)
+> 18) [单选题] 工地主管计算机的预设浏览器是甚么? (2分)
 > A. Chrome
 > B. Firefox
 > C. Safari
@@ -270,12 +270,12 @@ The registry key at `HKCU\SOFTWARE\Microsoft\Windows\Shell\Associations\URLAssoc
 The registry hive at `C:\Users\PC1\NTUSER.dat` was parsed with the `Registry Parser`. The registry key was navigated and revealed the default browser as Chrome.
 
 ![meiya-cup-2021-vtm-browser-2.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-vtm-browser-2.jpg)
-# 18. D
+
 答案：`A`
 
 <br>
 
-> 19. [填空题] 工地主管计算机的其中一个分区被人加密，分区内的电子表格Material3.xlsx的哈希值(SHA1)是甚么? (请以英文全大写及阿拉伯数字回答) (1分)
+> 19) [填空题] 工地主管计算机的其中一个分区被人加密，分区内的电子表格Material3.xlsx的哈希值(SHA1)是甚么? (请以英文全大写及阿拉伯数字回答) (1分)
 
 The BitLocker recovery key is usually stored within the text file named after the key identifier. Searched for the keyword "36EBC180" and revealed the file at `C:/Users/PC1/Desktop/BitLocker Recovery Key 36EBC180-95F7-41FF-BE5B-4E56E7AF48B1.TXT`.
 
@@ -301,7 +301,7 @@ Upon decrypting the partition with the `BitLocker Decryption`, the file in inter
 
 <br>
 
-> 20. [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)
+> 20) [多选题] 路由器的记录中显示以下有哪些IP是公司的电子器材? (3分)
 > A. 192.168.40.128
 > B. 192.168.40.129
 > C. 192.168.40.130
@@ -312,12 +312,11 @@ The log file `20211018.log` was opened with `Notepad++` and the IPs were searche
 
 ![meiya-cup-2021-log-ip.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-log-ip.jpg)
 
-# 20. B,C
 答案：`A,B,C,D`
 
 <br>
 
-> 21. [填空题] 路由器的记录中显示公司的计算机下载了FTP软件，该下载网站的IP是什麼?(请以亚拉伯数字作答，省去"."符号) (3分)
+> 21) [填空题] 路由器的记录中显示公司的计算机下载了FTP软件，该下载网站的IP是什麼?(请以亚拉伯数字作答，省去"."符号) (3分)
 
 It was found previously that the FTP client FileZilla was used. The keyword "filezilla" was searched and revealed the IP `49.12.121.47`.
 
@@ -327,7 +326,7 @@ It was found previously that the FTP client FileZilla was used. The keyword "fil
 
 <br>
 
-> 22. [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)
+> 22) [多选题] 路由器的记录中显示公司计算机的资料用FTP软件传到了甚么IP地址及利用端口? (2分)
 > A. IP地址：2*.2*.2*.114
 > B. IP地址：8*.8*.1*.20
 > C. IP地址：1*.1*.0*.13
@@ -342,7 +341,7 @@ Previously when finding for the FileZilla user name, the IP `218.225.242.114` an
 
 <br>
 
-> 23. [多选题] 路由器的记录中显示以下哪些关键词是表示公司计算机与外界网络联机? (2分)
+> 23) [多选题] 路由器的记录中显示以下哪些关键词是表示公司计算机与外界网络联机? (2分)
 > A. destination
 > B. ICMP echo request
 > C. inside
@@ -355,7 +354,7 @@ From the log entries identified in the previous two questions, the external netw
 
 <br>
 
-> 24. [单选题] 路由器的记录中显示哪一个IP曾以teamviewer连接公司计算机? (1分)
+> 24) [单选题] 路由器的记录中显示哪一个IP曾以teamviewer连接公司计算机? (1分)
 > A. 110.152.0.14
 > B. 52.152.117.114
 > C. 180.152.0.13
@@ -373,7 +372,7 @@ Searched for the keyword "/5938" and the only external IP found was `52.152.117.
 
 <br>
 
-> 25. [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer遥控公司计算机的时间? (3分)
+> 25) [多选题] 路由器的记录中显示以下哪一个有可能是以teamviewer遥控公司计算机的时间? (3分)
 > A. 09:31，09:37
 > B. 09:33，09:39
 > C. 10:29，10:36
@@ -388,7 +387,7 @@ Bookmarked all lines containing the keyword "/5938" and removed all unmarked lin
 
 <br>
 
-> 26. [填空题] 路由器的记录中显示有多少电子器材有可能曾被入侵? (请以阿拉伯数字作答) (2分)
+> 26) [填空题] 路由器的记录中显示有多少电子器材有可能曾被入侵? (请以阿拉伯数字作答) (2分)
 
 From the WhatsApp chat history viewed previously, it is believed that a total of three machines were compromised (the three TeamViewer IDs).
 
@@ -396,7 +395,7 @@ From the WhatsApp chat history viewed previously, it is believed that a total of
 
 <br>
 
-> 27. [多选题] 阿力士iPhone 12 pro电话于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)
+> 27) [多选题] 阿力士iPhone 12 pro电话于2021年10月21日，以下哪一张相片可能曾被分享 (UTC+8)? (3分)
 > A. IMG_0011.HEIC
 > B. IMG_0010.HEIC
 > C. IMG_0009.HEIC
@@ -412,12 +411,11 @@ When searched for the keywords of the image names, only the image `IMG_0010.HEIC
 
 ![meiya-cup-2021-ip12-image-2.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-ip12-image-2.jpg)
 
-# 27. B,C,D
 答案：`B`
 
 <br>
 
-> 28. [单选题] 阿力士iPhone 12 pro电话中哪一张相片可能曾被修改拍摄时间? (2分)
+> 28) [单选题] 阿力士iPhone 12 pro电话中哪一张相片可能曾被修改拍摄时间? (2分)
 > A. IMG_0011.HEIC
 > B. IMG_0010.HEIC
 > C. IMG_0009.HEIC
@@ -431,18 +429,17 @@ There were multiple duplicated images, but when checking at the timestamps of th
 
 <br>
 
-> 29. [填空题] 阿力士iPhone 12 pro 的GSM媒体访问控制地址是什么? (请以英文全大写及阿拉伯数字回答，不用输入“:”) (2分)
+> 29) [填空题] 阿力士iPhone 12 pro 的GSM媒体访问控制地址是什么? (请以英文全大写及阿拉伯数字回答，不用输入“:”) (2分)
 
 Google searched for the keyword in question and seemed to be pointing at the MAC address, which was found at the `Device Info` part.
 
 ![meiya-cup-2021-ip12-mac.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-ip12-mac.jpg)
 
-# 29. E06D1740FDBE
 答案：`E06D17382420`
 
 <br>
 
-> 30. [单选题] 阿力士的iphone 12 pro以什么屏幕密码保护? (1分)
+> 30) [单选题] 阿力士的iphone 12 pro以什么屏幕密码保护? (1分)
 > A. 6位阿拉伯数字密码
 > B. 4位阿拉伯数字密码
 > C. 图形密码
@@ -450,12 +447,11 @@ Google searched for the keyword in question and seemed to be pointing at the MAC
 
 Supposedly the file at `Apple_A2341 MGLW3LL_A iPhone 12 Pro.zip/Backup Service/00008101-000254A10A21001E/Snapshot/Manifest.plist` should contain the key `WasPasscodeSet` and value `false` to indicate that screen password was not set. However, the exported file did not include such key value pair.
 
-# 30. D
 答案：`D`
 
 <br>
 
-> 31. [多选题] 阿力士iphone 12 pro内以下哪一张相片是实况相片(live Photos)? (2分)
+> 31) [多选题] 阿力士iphone 12 pro内以下哪一张相片是实况相片(live Photos)? (2分)
 > A. IMG_0011.HEIC
 > B. IMG_0010.HEIC
 > C. IMG_0012.HEIC
@@ -469,7 +465,7 @@ Live photos are essentially a short video clip, with a still photo has the cover
 
 <br>
 
-> 32. [单选题] 以下哪一个是阿力士iphone 12 pro可能曾经连接的装置名称? (2分)
+> 32) [单选题] 以下哪一个是阿力士iphone 12 pro可能曾经连接的装置名称? (2分)
 > A. Chris’s MacBook Pro
 > B. Chirs’s iPhone
 > C. Chirs’s Computer
@@ -483,7 +479,7 @@ Searched for the keyword "chris" and the only result return was a contact named 
 
 <br>
 
-> 33. [多选题] 接上题，记录连接时间是什么时候(UTC+8)? (2分)
+> 33) [多选题] 接上题，记录连接时间是什么时候(UTC+8)? (2分)
 > A. 2021年10月21日 00:58:01
 > B. 2021年10月21日 08:58:01
 > C. 2021年10月21日 00:58:29
@@ -491,12 +487,11 @@ Searched for the keyword "chris" and the only result return was a contact named 
 
 From the previous contact screen of `Chris's MacBook Pro`, there was also a created timestamp at `2021-10-21 08:58:01 (UTC+8)`.
 
-# 33. B,C
 答案：`B`
 
 <br>
 
-> 34. [多选题] 阿力士iPhone XR中在软件WhatsApp中工地主管与阿力士的对话中曾提到：[佢叫我俾钱喎，BTC係唔係呢个啊？]。在进行电子数据取证分析后，以下哪一个是有可能关于此对话的正确描述？ (2分)
+> 34) [多选题] 阿力士iPhone XR中在软件WhatsApp中工地主管与阿力士的对话中曾提到：[佢叫我俾钱喎，BTC係唔係呢个啊？]。在进行电子数据取证分析后，以下哪一个是有可能关于此对话的正确描述？ (2分)
 > A. 此对话被Kariser Lee删除
 > B. 此对话的附件为一张图片文件
 > C. 此对话被Alex Chan删除
@@ -510,7 +505,7 @@ Switching to the image file `Alex iPhone XR.ufdr`. The `Messages > Chats > Whats
 
 <br>
 
-> 35. [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
+> 35) [填空题] 阿力士iPhone XR的WhatsApp对话中，阿力士曾要求工地主管支付多少个BTC? (请以阿拉伯数字回答) (1分)
 
 The followed message from the previous question was requesting for 10 bitcoins.
 
@@ -518,7 +513,7 @@ The followed message from the previous question was requesting for 10 bitcoins.
 
 <br>
 
-> 36. [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC"的图像与"5005.JPG”(MD5: 96c48152249536d14eaa80086c92fcb9)看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
+> 36) [多选题] 阿力士iPhone XR中 “IMG_0056.HEIC"的图像与"5005.JPG”(MD5: 96c48152249536d14eaa80086c92fcb9)看似为同一张相片，在电子数据取证分析下，以下哪样描述是正确? (2分)
 > A. 储存在不同的.db里
 > B. 有不同哈希值
 > C. IMG_0056.HEIC为原图，5005.JPG(MD5: 96c48152249536d14eaa80086c92fcb9)为缩略图
@@ -534,7 +529,7 @@ The images were found at the `Media > Images` page, under the same parent direct
 
 <br>
 
-> 37. [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)
+> 37) [多选题] 阿力士iPhone XR中相片檔IMG_0056.HEIC提供了什么电子数据取证的信息? (3分)
 > A. 此相片是由隔空投送(Airdrop)得来
 > B. 此相片由iPhone XR拍摄
 > C. 此相片的拍摄时间为2021-10-21 17:45:48(UTC+8)
@@ -546,7 +541,7 @@ The metadata of the image `IMG_0056.HEIC` revealed the camera model is `iPhone 1
 
 <br>
 
-> 38. [单选题] 阿力士iPhone XR中阿力士的电邮账户Alexc19851016@gmail.com的密码有可能是什么? (1分)
+> 38) [单选题] 阿力士iPhone XR中阿力士的电邮账户Alexc19851016@gmail.com的密码有可能是什么? (1分)
 > A. Ac19851016
 > B. Alex1985!
 > C. Aa475869!
@@ -560,7 +555,7 @@ Searched for the keyword "alexc19851016" and found the password `Aa475869!` writ
 
 <br>
 
-> 39. [填空题] 阿力士iPhone XR曾经连接Wifi "Alex Home"的密码是什么? (请以英文全大写及阿拉伯数字回答) (1分)
+> 39) [填空题] 阿力士iPhone XR曾经连接Wifi "Alex Home"的密码是什么? (请以英文全大写及阿拉伯数字回答) (1分)
 
 Searched for the keyword "alex home" and the only result returned revealed the WiFi password `12345678`.
 
@@ -570,7 +565,7 @@ Searched for the keyword "alex home" and the only result returned revealed the W
 
 <br>
 
-> 40. [单选题] 阿力士iPhone XR经iCloud备份的最后时间是什么?(UTC+8)? (1分)
+> 40) [单选题] 阿力士iPhone XR经iCloud备份的最后时间是什么?(UTC+8)? (1分)
 > A. 2021-10-21 17:51:38 (UTC+8)
 > B. 2021-10-21 18:02:13 (UTC+8)
 > C. 2021-10-21 09:51:38 (UTC+8)
@@ -584,7 +579,7 @@ The last cloud backup date was found under the `Device Info` part to be `2021-10
 
 <br>
 
-> 41. [填空题] 阿力士iPhone XR中的iBoot版本是iBoot-__________？ (请以阿拉伯数字回答，不用输入".") (1分)
+> 41) [填空题] 阿力士iPhone XR中的iBoot版本是iBoot-__________？ (请以阿拉伯数字回答，不用输入".") (1分)
 
 Details of an iPhone can be found in the file at `Lockdown Service/PhoneInfo.xml`, which revealed the firmware version `iBoot-6723.120.36`.
 
@@ -594,7 +589,7 @@ Details of an iPhone can be found in the file at `Lockdown Service/PhoneInfo.xml
 
 <br>
 
-> 42. [多选题] 阿力士iPhone XR中的WhatsApp群组『团购-新鲜猪肉牛肉-东涌群组-9/30』有以下哪一个成员? (2分)
+> 42) [多选题] 阿力士iPhone XR中的WhatsApp群组『团购-新鲜猪肉牛肉-东涌群组-9/30』有以下哪一个成员? (2分)
 > A. 85260617332@s.whatsapp.net
 > B. 85260452579@s.whatsapp.net
 > C. 85248791565@s.whatsapp.net
@@ -608,7 +603,7 @@ The WhatsApp group conversion was found at the `Messages > Chats > WhatsApp` pag
 
 <br>
 
-> 43. [单选题] 阿力士的计算机显示曾于hongkongcard.com的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
+> 43) [单选题] 阿力士的计算机显示曾于hongkongcard.com的论坛登记成为会员，以下哪个是他的帐户密码? (3分)
 > A. Aa475869!
 > B. Bb475869!
 > C. Cd475869!
@@ -622,7 +617,7 @@ Searched for the keyword "hongkongcard", found the login name as `alexc19851016@
 
 <br>
 
-> 44. [单选题] 阿力士的计算机显示阿力士曾用什么方法进入受害者(主管)的计算机? (1分)
+> 44) [单选题] 阿力士的计算机显示阿力士曾用什么方法进入受害者(主管)的计算机? (1分)
 > A. 远程操控
 > B. 特洛伊木马程序
 > C. 勒索软件
@@ -636,7 +631,7 @@ From the previous questions, it is pretty obvious that TeamViewer was used to ge
 
 <br>
 
-> 45. [单选题] 续上题，阿力士最后一次进入受害者(主管)计算机的时间是什么? (2分)
+> 45) [单选题] 续上题，阿力士最后一次进入受害者(主管)计算机的时间是什么? (2分)
 > A. 于2021年10月18日10时36分
 > B. 于2021年10月18日18时36分
 > C. 于2021年10月18日6时53分
@@ -648,7 +643,7 @@ From the records, the last entry has the timestamp `2021-10-18 10:42:29 UTC`.
 
 <br>
 
-> 46. [填空题] 阿力士的计算机显示他曾经使用FTP程序，FTP的主机IP地址是什麼? (请以亚拉伯数字作答，省去"."符号) (2分)
+> 46) [填空题] 阿力士的计算机显示他曾经使用FTP程序，FTP的主机IP地址是什麼? (请以亚拉伯数字作答，省去"."符号) (2分)
 
 The `Download Tools Analysis > FileZilla > Client > Quick Connect Record` page revealed the host IP `218.255.242.114`.
 
@@ -658,7 +653,7 @@ The `Download Tools Analysis > FileZilla > Client > Quick Connect Record` page r
 
 <br>
 
-> 47. [填空题] 阿力士的计算机显示于2021年9月至2021年11月期间，计算机曾被登入过多少次? (请以阿拉伯数字回答) (1分)
+> 47) [填空题] 阿力士的计算机显示于2021年9月至2021年11月期间，计算机曾被登入过多少次? (请以阿拉伯数字回答) (1分)
 
 The `System Artifacts > System Info > User Info` page revealed the user `Alex` has a login time of 30.
 
@@ -668,7 +663,7 @@ The `System Artifacts > System Info > User Info` page revealed the user `Alex` h
 
 <br>
 
-> 48. [填空题] 阿力士计算机所安装的Microsoft Office 2007 是以下哪一个版本? (请以亚拉伯数字作答，省去"."符号) (2分)
+> 48) [填空题] 阿力士计算机所安装的Microsoft Office 2007 是以下哪一个版本? (请以亚拉伯数字作答，省去"."符号) (2分)
 
 The `System Artifacts > Installed Software > Other Software` page revealed the version of `Microsoft Office Professional Plus 2007` as `12.0.4518.1014`.
 
@@ -678,16 +673,15 @@ The `System Artifacts > Installed Software > Other Software` page revealed the v
 
 <br>
 
-> 49. [填空题] 以下是阿力士计算机中的Basic data partition (EFI 3)的Volume ID? (请以英文全大写及阿拉伯数字回答) (2分)
+> 49) [填空题] 以下是阿力士计算机中的Basic data partition (EFI 3)的Volume ID? (请以英文全大写及阿拉伯数字回答) (2分)
 
 The basic data partition is just the primary drive using GPT, which is the C drive in this case.
 
-# 49. 94C44CA5C44C8B84
 答案：`94C44CA5C44C8B84`
 
 <br>
 
-> 50. [填空题] 阿力士计算机的Window product ID是什么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
+> 50) [填空题] 阿力士计算机的Window product ID是什么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 
 The `System Artifacts > System Info > System Info` page revealed the Windows product ID `00331-10000-00001-AA411`.
 
@@ -697,7 +691,7 @@ The `System Artifacts > System Info > System Info` page revealed the Windows pro
 
 <br>
 
-> 51. [单选题] 阿力士计算机曾经下载一张猴子的图片，以下哪一项描述正确? (1分)
+> 51) [单选题] 阿力士计算机曾经下载一张猴子的图片，以下哪一项描述正确? (1分)
 > A. 该图片是由"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgn6ABvcqTfFPjcIbjc9hdx1H4PtQsAuVyTQ&usqp=CAU"下载的
 > B. 该图片经过加密
 > C. 该图片于2021-09-30下载
@@ -711,7 +705,7 @@ The downloaded image was found at `C:\Users\Alex\Downloads\images(1).png`, with 
 
 <br>
 
-> 52. [填空题] 阿力士计算机所安装的Microsoft Office 2007的密钥是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
+> 52) [填空题] 阿力士计算机所安装的Microsoft Office 2007的密钥是甚么? (请以英文全大写及阿拉伯数字回答，不用输入"-") (1分)
 
 When looking for the image from the previous question, it was found that the `Microsoft Office Pro Plus 2007` is under `C:\Users\Alex\Desktop`, which contained the file `License Key.txt` that revealed the key `V77WQ-RPVP6-7MTPG-WH3G9-D44MJ`.
 
@@ -721,7 +715,7 @@ When looking for the image from the previous question, it was found that the `Mi
 
 <br>
 
-> 53. [单选题] 阿力士FTP服务器用户使用命令行安装了甚么程序? (1分)
+> 53) [单选题] 阿力士FTP服务器用户使用命令行安装了甚么程序? (1分)
 > A. Docker
 > B. Chrome
 > C. FileZilla
@@ -735,7 +729,7 @@ Switching to the image file `FTP.E01`. The parsed information at `User Artifacts
 
 <br>
 
-> 54. [多选题] 以下哪些档案于阿力士FTP服务器曾重复出现? (3分)
+> 54) [多选题] 以下哪些档案于阿力士FTP服务器曾重复出现? (3分)
 > A. Material1
 > B. Material2
 > C. Material3
@@ -751,7 +745,7 @@ Given that `Material3.xlsx` was mentioned in a previous question, the Excel docu
 
 <br>
 
-> 55. [填空题] 在阿力士FTP服务器中，文件夹___________曾被用户变更了访问权限 (请以英文全大写及阿拉伯数字回答) (2分)
+> 55) [填空题] 在阿力士FTP服务器中，文件夹___________曾被用户变更了访问权限 (请以英文全大写及阿拉伯数字回答) (2分)
 
 The command line history analysed earlier also revealed that the directory `Dangerous_Project` had permissions modified.
 
@@ -761,7 +755,7 @@ The command line history analysed earlier also revealed that the directory `Dang
 
 <br>
 
-> 56. [填空题] 在阿力士FTP服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)
+> 56) [填空题] 在阿力士FTP服务器建设后，有______个额外用户被加入 (请以阿拉伯数字回答) (2分)
 
 Also from the command line history, the user `wai` was added to the FTP server.
 
@@ -769,7 +763,7 @@ Also from the command line history, the user `wai` was added to the FTP server.
 
 <br>
 
-> 57. [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
+> 57) [单选题] 根据阿力士FTP服务器设定显示，此服务器是以_____方式连接网络，且是一个_______网络状态 (1分)
 > A. 无线，公开
 > B. 无线，私人
 > C. 有线，公开
@@ -783,7 +777,7 @@ The parsed information at `System Artifacts > NetWork Config Info > Static NetWo
 
 <br>
 
-> 58. [填空题] 阿力士FTP服务器设定最多使用者数目是_____ (请以阿拉伯数字回答) (2分)
+> 58) [填空题] 阿力士FTP服务器设定最多使用者数目是_____ (请以阿拉伯数字回答) (2分)
 
 The command line history revealed the FTP service to be `pure-ftpd`. The configuration file is located at `/etc/pure-ftpd/pure-ftpd.conf` but it was not found.
 
@@ -791,12 +785,11 @@ The file name `pure-ftpd` was used as a filter at the `Uncategorized` file list 
 
 ![meiya-cup-2021-ftp-conf.jpg]({{ site.url }}{{ site.baseurl }}/assets/posts/meiya-cup-2021-ftp-conf.jpg)
 
-# 58. 5
 答案：`50`
 
 <br>
 
-> 59. [填空题] 阿力士FTP服务器使用Docker安装了一个FTP程序为___________。 (例如 space docker /1.1，请输入 spacedocker/1.1，不要输入空格) (2分)
+> 59) [填空题] 阿力士FTP服务器使用Docker安装了一个FTP程序为___________。 (例如 space docker /1.1，请输入 spacedocker/1.1，不要输入空格) (2分)
 
 The command line history also revealed the `docker` command to install `stilliard/pure-ftpd`.
 
@@ -806,7 +799,7 @@ The command line history also revealed the `docker` command to install `stilliar
 
 <br>
 
-> 60. [多选题] 阿力士FTP服务器曾使用过甚么版本的Linux内核? (2分)
+> 60) [多选题] 阿力士FTP服务器曾使用过甚么版本的Linux内核? (2分)
 > A. linux-headers-5.11.0-16
 > B. linux-headers-5.11.0-17
 > C. linux-headers-5.11.0-36
@@ -822,7 +815,7 @@ Linux headers are usually located under the path `/usr/src`. Navigating to the d
 
 <br>
 
-> 61. [多选题] 阿力士FTP服务器的磁盘分区，有以下哪一种文件系统? (2分)
+> 61) [多选题] 阿力士FTP服务器的磁盘分区，有以下哪一种文件系统? (2分)
 > A. FAT16
 > B. FAT32
 > C. ExFAT
@@ -839,7 +832,7 @@ Clicking at the top level of the partition revealed the partition type, with par
 
 <br>
 
-> 62. [填空题] 阿力士FTP服务器用户输入了指令_____________去检查现存的Docker容器 (例如netstat lntp，请输入netstatlntp，不要输入空格) (3分)
+> 62) [填空题] 阿力士FTP服务器用户输入了指令_____________去检查现存的Docker容器 (例如netstat lntp，请输入netstatlntp，不要输入空格) (3分)
 
 The command line history revealed the command used to be `docker container ps -a`.
 

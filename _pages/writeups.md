@@ -18,6 +18,11 @@ These are writeups mostly for CTFs and labs. They are not written in the most or
 
 <br>
 
+## Meiya Cup 美亞杯
+- [美亞杯 2021 - 個人賽]({{ site.url }}{{ site.baseurl }}/writeups/meiya-cup-2022-individual/)
+
+<br>
+
 ## picoCTF
 - [picoCTF 2022 - Binary Exploitation]({{ site.url }}{{ site.baseurl }}/writeups/picoctf-2022-binary/)
 - [picoCTF 2022 - Cryptography]({{ site.url }}{{ site.baseurl }}/writeups/picoctf-2022-cryptography/)
