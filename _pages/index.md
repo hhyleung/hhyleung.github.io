@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /
+classes: wide
 ---
 
 ![Sunrise at Edinburgh]({{ site.url }}{{ site.baseurl }}/assets/images/about.jpg)
-{: .full}
 
 As someone who probably has too many interests and always wants to learn a bit of this and that, I would like to record down my learning journey to keep myself motivated, which is what this website is for, simply a medium that allows me to organise what I have learnt and want to learn. If anything here happens to be able to help one or two in this big world, then that would be a great bonus!
 
