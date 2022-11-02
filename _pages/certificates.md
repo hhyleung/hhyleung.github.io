@@ -11,7 +11,7 @@ A list of technical certificates that I have obtained can be found on the [Certi
 
 ## Blue Team
 ---
-- [BTL1 - Blue Team Level 1]({{ site.url }}{{ site.baseurl }}/certificates/blue-team-level-1)
+- [BTL1 - Blue Team Level 1]({{ site.url }}{{ site.baseurl }}/certificates/blue-team-level-1/)
 - [EnCE - EnCase Certified Examiner]({{ site.url }}{{ site.baseurl }}/certificates/encase-certified-examiner/)
 - [GCFE - GIAC Certified Forensic Examiner]({{ site.url }}{{ site.baseurl }}/certificates/giac-forensic-examiner/)
 
