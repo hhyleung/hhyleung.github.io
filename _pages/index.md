@@ -10,7 +10,7 @@ As someone who probably has too many interests and always wants to learn a bit o
 
 > Trust the process and try harder.
 
-For work, I started off with [website development](https://hhyleung.github.io/demo) back in my University days, then got intrigued by cyber security while trying to fix our hacked website. In hindsight, I should probably thank the attacker for hacking us, as that introduced me to this exciting field (sorry for the company, though).
+For work, I started off with [website development](https://hhyleung.github.io/webdev) back in my University days, then got intrigued by cyber security while trying to fix our hacked website. In hindsight, I should probably thank the attacker for hacking us, as that introduced me to this exciting field (sorry for the company, though).
 
 I now specialise in digital forensics and incident response, but I am also interested in web application security and penetration testing. I tend to learn through online courses (mostly video, I'm a terrible reader) and get my hands dirty with labs and CTFs. I also often opt to challenge myself by getting different [certificates]({{ site.url }}{{ site.baseurl }}/certified) and when I have the time, I would love to get some small and random [side projects](https://github.com/hhyleung) done.
 
