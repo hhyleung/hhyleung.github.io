@@ -11,9 +11,10 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 ## Blue Team
 ---
-- 16 Aug 2022 - GCFE (GIAC Certified Forensic Examiner)
-- 06 May 2022 - EnCE (EnCase Certified Examiner)
-- 02 Jan 2022 - BTL1 (Blue Team Level 1)
+- 14 Dec 2022 - GCFA - GIAC Certified Forensic Analyst
+- 16 Aug 2022 - GCFE - GIAC Certified Forensic Examiner
+- 06 May 2022 - EnCE - EnCase Certified Examiner
+- 02 Jan 2022 - BTL1 - Blue Team Level 1
 
 <br>
 
@@ -27,10 +28,8 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 <br>
 
-## Vendor
+## Splunk
 ---
-- 24 Jun 2022 - Cybereason Certified Threat Hunter
-- 10 Jun 2022 - Cybereason Certified Threat Analyst
 - 14 Sep 2021 - Splunk Enterprise Certified Architect
 - 12 Aug 2021 - Splunk Enterprise Certified Admin
 - 13 Jul 2021 - Splunk Core Certified Power User
@@ -38,10 +37,16 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 <br>
 
+## EDR
+---
+- 24 Jun 2022 - Cybereason Certified Threat Hunter
+- 10 Jun 2022 - Cybereason Certified Threat Analyst
+
+<br>
+
 ## Targets
 ---
-- Nov 2022 - GCFA (GIAC Certified Forensic Analyst)
 - Dec 2022 - Microsoft Certified: Identity and Access Administrator Associate
-- Dec 2022 - Microsoft Certified: Security Operations Analyst Associate
+- Jan 2023 - Microsoft Certified: Security Operations Analyst Associate
 
 <br>
