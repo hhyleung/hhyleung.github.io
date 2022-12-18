@@ -1,11 +1,13 @@
 # main links
 main:
+  - title: "About"
+    url: /
   - title: "Posts"
     url: /tags
+  - title: "Knowledge Base"
+    url: https://hhyleung.gitbook.io/knowledge-base/
   - title: "Certificates"
     url: /certificates
-  - title: "Cheatsheets"
-    url: /cheatsheets
   - title: "Writeups"
     url: /writeups
   - title: "Photography"
