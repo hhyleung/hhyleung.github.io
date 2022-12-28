@@ -24,6 +24,6 @@ tags:
 - Splunk Enterprise System Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-system-administration.html>
 - Splunk Enterprise Data Administration: <https://www.splunk.com/en_us/training/courses/splunk-enterprise-data-administration.html>
 - Exam dump: <https://www.examtopics.com/exams/splunk/splk-1003>
-- Cheatsheet: <https://hhyleung.gitbook.io/knowledge-base/v/cloud/aws/cloud-practitioner>
+- Cheatsheet: <https://hhyleung.gitbook.io/knowledge-base/v/splunk/splunk-enterprise/enterprise-admin>
 
 <br>
