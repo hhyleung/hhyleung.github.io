@@ -25,6 +25,7 @@ A list of technical certificates that I have obtained can be found on the [Certi
 - [AWS Solutions Architect - Associate]({{ site.url }}{{ site.baseurl }}/certificates/aws-solutions-architect-associate/)
 - [Azure Administrator Associate]({{ site.url }}{{ site.baseurl }}/certificates/azure-administrator-associate/)
 - [Azure Fundamentals]({{ site.url }}{{ site.baseurl }}/certificates/azure-fundamentals/)
+- [Azure Identity and Access Administrator]({{ site.url }}{{ site.baseurl }}/certificates/azure-iam-administrator/)
 
 <br>
 

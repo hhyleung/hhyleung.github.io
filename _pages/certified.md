@@ -20,6 +20,7 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 ## Cloud
 ---
+- 31 Dec 2022 - Microsoft Certified: Identity and Access Administrator Associate
 - 30 May 2021 - Microsoft Certified: Azure Administrator Associate
 - 19 May 2021 - Microsoft Certified: Azure Fundamentals
 - 06 Apr 2021 - AWS Certified Security - Speciality
@@ -46,7 +47,6 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 ## Targets
 ---
-- Dec 2022 - Microsoft Certified: Identity and Access Administrator Associate
 - Jan 2023 - Microsoft Certified: Security Operations Analyst Associate
 
 <br>
