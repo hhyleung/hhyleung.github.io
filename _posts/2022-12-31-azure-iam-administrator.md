@@ -16,7 +16,7 @@ tags:
 ## Stats
 - Study time: 7 hours
 - Exam time: 32 minutes
-- Result: 783 / 1000 PASS
+- Result: 782 / 1000 PASS
 
 <br>
 
