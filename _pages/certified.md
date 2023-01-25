@@ -5,7 +5,7 @@ permalink: /certified.html
 classes: wide
 ---
 
-Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/users/hhyleung/badges)
+Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/users/hhyleung/badges?sort=-state_updated_at&page=1)
 
 <br>
 
@@ -18,11 +18,17 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 <br>
 
-## Cloud
+## Azure
 ---
+- 26 Jan 2023 - Microsoft Certified: Security Operations Analyst Associate
 - 31 Dec 2022 - Microsoft Certified: Identity and Access Administrator Associate
 - 30 May 2021 - Microsoft Certified: Azure Administrator Associate
 - 19 May 2021 - Microsoft Certified: Azure Fundamentals
+
+<br>
+
+## AWS
+---
 - 06 Apr 2021 - AWS Certified Security - Speciality
 - 06 Mar 2021 - AWS Certified Solutions Architect - Associate
 - 01 Feb 2021 - AWS Certified Cloud Practitioner
@@ -42,11 +48,5 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 ---
 - 24 Jun 2022 - Cybereason Certified Threat Hunter
 - 10 Jun 2022 - Cybereason Certified Threat Analyst
-
-<br>
-
-## Targets
----
-- Jan 2023 - Microsoft Certified: Security Operations Analyst Associate
 
 <br>

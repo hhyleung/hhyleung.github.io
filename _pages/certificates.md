@@ -26,6 +26,7 @@ A list of technical certificates that I have obtained can be found on the [Certi
 - [Azure Administrator Associate]({{ site.url }}{{ site.baseurl }}/certificates/azure-administrator-associate/)
 - [Azure Fundamentals]({{ site.url }}{{ site.baseurl }}/certificates/azure-fundamentals/)
 - [Azure Identity and Access Administrator]({{ site.url }}{{ site.baseurl }}/certificates/azure-iam-administrator/)
+- [Azure Security Operations Analyst]({{ site.url }}{{ site.baseurl }}/certificates/azure-security-operations/)
 
 <br>
 
