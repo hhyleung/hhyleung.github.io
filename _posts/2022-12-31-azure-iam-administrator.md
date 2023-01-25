@@ -29,6 +29,6 @@ tags:
 <br>
 
 ## Review
-Got the free voucher from the Microsoft Build Cloud Skills Challenge. Need to be clear of the privileges of different roles in order to meet the least privilege concept. Some questions are long as it needs to show different configuration but the question itself might be focused on a small set of information, can read the actual question in the end first before looking at all of the information provided.
+Got the free voucher from the Microsoft Build Cloud Skills - Security: Who Hacked? Challenge. Need to be clear of the privileges of different roles in order to meet the least privilege concept. Some questions are long as it needs to show different configuration but the question itself might be focused on a small set of information, can read the actual question in the end first before looking at all of the information provided.
 
 <br>
