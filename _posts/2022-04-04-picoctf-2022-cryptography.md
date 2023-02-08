@@ -10,7 +10,7 @@ toc_sticky: true
 categories:
   - Writeups
 tags:
-  - CTF
+  - picoCTF
 ---
 
 ## Cryptography
