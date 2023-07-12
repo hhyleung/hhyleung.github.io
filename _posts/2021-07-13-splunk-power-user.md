@@ -24,6 +24,6 @@ tags:
 - Splunk Fundamentals 1: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-1.html>
 - Splunk Fundamentals 2: <https://www.splunk.com/en_us/training/courses/splunk-fundamentals-2.html>
 - Exam dump: <https://www.examtopics.com/exams/splunk/splk-1002/>
-- Cheatsheet: <https://hhyleung.gitbook.io/knowledge-base/v/splunk/splunk-enterprise/power-user>
+- Cheatsheet: <https://hhyleung.gitbook.io/knowledge-base/vendor/splunk/power-user>
 
 <br>

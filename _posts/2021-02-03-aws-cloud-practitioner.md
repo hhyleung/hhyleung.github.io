@@ -25,7 +25,7 @@ tags:
 - Cloud practitioner full course: <https://www.youtube.com/watch?v=3hLmDS179YE>
 - AWS services overview: <https://www.youtube.com/watch?v=TkT4iFRkaZk>
 - Exam dump: <https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner>
-- Cheatsheet: <https://hhyleung.gitbook.io/knowledge-base/v/cloud/aws/cloud-practitioner>
+- Cheatsheet: <https://hhyleung.gitbook.io/knowledge-base/cloud/aws/cloud-practitioner>
 
 <br>
 

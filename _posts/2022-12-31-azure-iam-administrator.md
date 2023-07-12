@@ -24,7 +24,7 @@ tags:
 - Microsoft official training: [https://learn.microsoft.com/en-us/certifications/exams/sc-300?tab=tab-learning-paths](https://learn.microsoft.com/en-us/certifications/exams/sc-300?tab=tab-learning-paths)
 - Cram: [https://www.youtube.com/watch?v=LGpgqRVG65g](https://www.youtube.com/watch?v=LGpgqRVG65g&list=PLlVtbbG169nGj4rfaMUQiKiBZNDlxoo0y&index=1)
 - Exam dump: [https://www.youtube.com/playlist?list=PLQ2ktTy9rklg4UB410l5INeQ-BnYQ8YRJ](https://www.youtube.com/playlist?list=PLQ2ktTy9rklg4UB410l5INeQ-BnYQ8YRJ)
-- Cheatsheet: [https://hhyleung.gitbook.io/knowledge-base/v/cloud/azure/identity-and-access-administrator](https://hhyleung.gitbook.io/knowledge-base/v/cloud/azure/identity-and-access-administrator)
+- Cheatsheet: [https://hhyleung.gitbook.io/knowledge-base/cloud/azure/identity-and-access-administrator](https://hhyleung.gitbook.io/knowledge-base/cloud/azure/identity-and-access-administrator)
 
 <br>
 
