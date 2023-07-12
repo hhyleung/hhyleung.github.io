@@ -46,6 +46,9 @@ Credly: [https://www.credly.com/users/hhyleung/badges](https://www.credly.com/us
 
 ## EDR
 ---
+- 27 Apr 2023 - CrowdStrike Certified Falcon Administrator
+- 11 Apr 2023 - CrowdStrike Certified Falcon Responder
+- 31 Mar 2023 - CrowdStrike Certified Falcon Hunter
 - 24 Jun 2022 - Cybereason Certified Threat Hunter
 - 10 Jun 2022 - Cybereason Certified Threat Analyst
 
